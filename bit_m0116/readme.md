@@ -1,27 +1,35 @@
-# bitten_restoboards/bit_m0116
+<p align="center">
+  <img align="center" width="100" src="assets/logo0.png" />
 
-![bitten_restoboards/bit_m0116](imgur.com image replace me!)
+  <h1 align="center">General Bittens Electrics Incorporated</h1>
+  <h6 align="center">Special Keyboard Manufacturing & Restoration Division Ω 1992. No Rights Reserved</h6>
+</p>
 
-*A short description of the keyboard/project*
+## Details
 
-* Keyboard Maintainer: [Abdullah](https://github.com/BittenEite)
-* Hardware Supported: *The PCBs, controllers supported*
-* Hardware Availability: *Links to where you can find this hardware*
+|	Years of prod.	|	1987—1990				|
+|	Branding		|	Apple Computers Inc.	|
+|	Model			|	Standard Keyboard		|
+|	Part No.		|	M0116/M0118				|
+|	Price			|	$129 USD (1987)			|
+
+|	Keyswitches		|	Alps SKCL/SKCM			|
+|	Keycount		|	83						|
+
+## Installation
 
 Make example for this keyboard (after setting up your build environment):
 
-    make handwired/bit_m0118:default
+    make bitten_restoboards/bit_m0116:default
 
-Flashing example for this keyboard:
+## Building
 
-    make handwired/bit_m0118:default:flash
+## Author
 
-See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
+👤 **Abdullah Al-Marzouqi**
 
-## Bootloader
+- Github: https://github.com/Bitteneite
+- Discord: @BittenEite
+- Instagram: [@bitteneite](https://www.instagram.com/bitteneite/)
 
-Enter the bootloader in 3 ways:
-
-* **Bootmagic reset**: Hold down the key at (0,0) in the matrix (usually the top left key or Escape) and plug in the keyboard
-* **Physical reset button**: Briefly press the button on the back of the PCB - some may have pads you must short instead
-* **Keycode in layout**: Press the key mapped to `QK_BOOT` if it is available
+<div align="center">No. We're not a real company.</div>
