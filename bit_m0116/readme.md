@@ -5,14 +5,20 @@
 
 ## Details
 
+# Keyboard Details
 |	Info			|	Description				|
 |	------------	|	------------			|
 |	Branding		|	Apple Computers Inc.	|
 |	Model			|	Standard Keyboard		|
 |	Part No.		|	M0116/M0118				|
-|	Price			|	$129 USD (1987)			|
-|	Keyswitches		|	Alps SKCL/SKCM			|
-|	Keycount		|	83						|
+
+# Product Requirements
+|	Item			|	Q	|	Description				|
+|	------------	|----	|	------------			|
+|	Controller		|	1	|	Raspberry Pi Pico		|
+|	Diodes			|	81	|	DO-35					|
+|	Switches		|	81	|	Alps SKCM/SKCL			|
+
 
 ## Installation
 
