@@ -7,7 +7,8 @@
 
 ## Details
 
-<h4>Keyboard Details</h4>
+<h3>Keyboard Details</h3>
+
 |	Info			|	Description				|
 |	------------	|	------------			|
 |	Years of prod.	|	1987—1990				|
@@ -15,7 +16,8 @@
 |	Model			|	Standard Keyboard		|
 |	Part No.		|	M0116/M0118				|
 
-<h4>Product Requirements</h4>
+<h3>Product Requirements</h3>
+
 |	Item			|	Q	|	Description				|
 |	------------	|----	|	------------			|
 |	Controller		|	1	|	Raspberry Pi Pico		|
