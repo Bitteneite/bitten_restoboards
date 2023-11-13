@@ -5,12 +5,12 @@
 
 ## Details
 
-|	Years of prod.	|	1987—1990				|
+|	Info			|	Description				|
+|	------------	|	------------			|
 |	Branding		|	Apple Computers Inc.	|
 |	Model			|	Standard Keyboard		|
 |	Part No.		|	M0116/M0118				|
 |	Price			|	$129 USD (1987)			|
-
 |	Keyswitches		|	Alps SKCL/SKCM			|
 |	Keycount		|	83						|
 
