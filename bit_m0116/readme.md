@@ -1,18 +1,21 @@
 <p align="center">
+  <img align="center" width="100" src="assets/logo0.png" />
+
   <h1 align="center">General Bittens Electrics Incorporated</h1>
   <h6 align="center">Special Keyboard Manufacturing & Restoration Division Ω 1992. No Rights Reserved</h6>
 </p>
 
 ## Details
 
-# Keyboard Details
+<h4>Keyboard Details</h4>
 |	Info			|	Description				|
 |	------------	|	------------			|
+|	Years of prod.	|	1987—1990				|
 |	Branding		|	Apple Computers Inc.	|
 |	Model			|	Standard Keyboard		|
 |	Part No.		|	M0116/M0118				|
 
-# Product Requirements
+<h4>Product Requirements</h4>
 |	Item			|	Q	|	Description				|
 |	------------	|----	|	------------			|
 |	Controller		|	1	|	Raspberry Pi Pico		|
