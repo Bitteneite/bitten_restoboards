@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" width="100" src="assets/logo3.png" />
+  <img align="center" width="100" src="assets/logo.png" />
 
   <h1 align="center">General Bittens Electrics Incorporated</h1>
   <h6 align="center">Special Keyboard Manufacturing & Restoration Division Ω 1992. No Rights Reserved</h6>
