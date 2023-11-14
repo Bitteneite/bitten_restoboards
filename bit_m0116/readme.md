@@ -1,10 +1,12 @@
+
 <p align="center">
   <img align="center" width="500" src="https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/logo3.png" />
 </p>
 
 # QMK Firmware for Bittens Inc. M0116 PCB
+<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='1000'>
 
-## Overview
+
 
 This repository contains the QMK firmware for a custom PCB designed for the vintage Apple M0116 keyboard. The PCB is a through-hole kit that requires a Raspberry Pi Pico or any RP2040 clone, along with approximately 81 diodes (or 84 diodes for M0118 keyboards).
 
@@ -38,27 +40,39 @@ This repository contains the QMK firmware for a custom PCB designed for the vint
 1. Download the .uf2 firmware file:
 
 2. Set your Raspberry Pi Pico into Bootloader:
+	<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
 		- Press the BOOT and RST buttons simultaneously.
 		- A new device should be connected to your computer.
 
 3. Flash your Raspberry Pi Pico:
+	<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
 		- Drag the .uf2 file into your newly connected device. Your RP2040 controller should reboot in a second!
 
 ### Assembling
 
 1. Install the 1N4148 diodes into the PCB:
+<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
 Note: Some diodes locations are dedicated to the M0118 layout!
+
 2. Place the Standoffs onto your RP2040 controller the "incorrect" way:
+<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
 Note: This will minimize the height of your RP2040 and avoid clearance issues.
+
 3. Solder your RP2040 controller onto the PCB:
+<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
+
 4. Short each switch manually using a pair of tweezers:
+<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
 Note: Verify that each switch is triggering reliably.
+
 5. Once verified, snip off the protruding pins for a cleaner look:
+<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
 
 Congratulations! Your PCB is now ready for installation!
 
 ## Customization
-![Preview of the M0116 PCB in Vial](https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/assets/vial_preview.png)
+<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/vial_preview.png ' width='1000'>
+
 
 ## Contact
 
