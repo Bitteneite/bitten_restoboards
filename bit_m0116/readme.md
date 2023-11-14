@@ -25,8 +25,7 @@ This repository contains the QMK firmware for a custom PCB designed for the vint
 - **Multi-Layout Compatibility**: The PCB is designed to accommodate both M0116 and M0118 layouts, providing users with flexibility.
 - **User-Friendly Assembly:** Enjoy a hassle-free assembly process with off-the-shelf components and a through-hole design.
 
-## Instructions
-### Prerequisites
+## Prerequisites
 
 |	Q		|	Item				|	Description				|	Example						|
 |	------------		|----					|	------------					|	------------					|
@@ -35,7 +34,7 @@ This repository contains the QMK firmware for a custom PCB designed for the vint
 |	x1 	|	Type-C Socket|		Cable Port						|	[Link (Optional)](https://www.aliexpress.com/item/1005005565293821.html)		|
 - Ensure that [Vial](https://get.vial.today/) is installed and running. It will be required for verification.
 
-### Preparation
+## Preparation
 
 1. Download the .uf2 firmware file:
 
@@ -48,7 +47,7 @@ This repository contains the QMK firmware for a custom PCB designed for the vint
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
 		- Drag the .uf2 file into your newly connected device. Your RP2040 controller should reboot in a second!
 
-### Assembling
+## Instructions
 
 1. Install the 1N4148 diodes into the PCB:
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
