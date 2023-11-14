@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" width="500" src="https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/assets/logo3.png" />
+  <img align="center" width="500" src="https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/logo3.png" />
 </p>
 
 # QMK Firmware for Bittens Inc. M0116 PCB
