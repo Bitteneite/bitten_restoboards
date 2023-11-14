@@ -47,7 +47,7 @@ This repository contains the QMK firmware for a custom PCB designed for the vint
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
 		- Drag the .uf2 file into your newly connected device. Your RP2040 controller should reboot in a second!
 
-## Instructions
+## Assembling Instructions
 
 1. Install the 1N4148 diodes into the PCB:
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
