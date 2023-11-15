@@ -39,30 +39,31 @@ This repository contains the QMK firmware for a custom PCB designed for the vint
 1. Download the .uf2 firmware file:
 
 2. Set your Raspberry Pi Pico into Bootloader:
+	- Press the BOOT and RST buttons simultaneously.
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
-		- Press the BOOT and RST buttons simultaneously.
-		- A new device should be connected to your computer.
 
-3. Flash your Raspberry Pi Pico:
+3. A new device should be connected to your computer. Open the device directory:
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
-		- Drag the .uf2 file into your newly connected device. Your RP2040 controller should reboot in a second!
+
+5. Drag the .uf2 file into your newly connected device. Your RP2040 controller should reboot in a second!
+<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
 
 ## Assembling Instructions
 
 1. Install the 1N4148 diodes into the PCB:
+	Note: Some diodes locations are dedicated to the M0118 layout!
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
-Note: Some diodes locations are dedicated to the M0118 layout!
 
 2. Place the Standoffs onto your RP2040 controller the "incorrect" way:
+	Note: This will minimize the height of your RP2040 and avoid clearance issues.
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
-Note: This will minimize the height of your RP2040 and avoid clearance issues.
 
 3. Solder your RP2040 controller onto the PCB:
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
 
 4. Short each switch manually using a pair of tweezers:
+	Note: Verify that each switch is triggering reliably.
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
-Note: Verify that each switch is triggering reliably.
 
 5. Once verified, snip off the protruding pins for a cleaner look:
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
