@@ -51,18 +51,18 @@ This repository contains the QMK firmware for a custom PCB designed for the vint
 ## Assembling Instructions
 
 1. Install the 1N4148 diodes into the PCB:
-	- Note: Some diodes locations are dedicated to the M0118 layout!
+	- Some diodes locations are dedicated to the M0118 layout!
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
 
 2. Place the Standoffs onto your RP2040 controller the "incorrect" way:
-	- Note: This will minimize the height of your RP2040 and avoid clearance issues.
+	- This will minimize the height of your RP2040 and avoid clearance issues.
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
 
 3. Solder your RP2040 controller onto the PCB:
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
 
 4. Short each switch manually using a pair of tweezers:
-	- Note: Verify that each switch is triggering reliably.
+	- Verify that each switch is triggering reliably.
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
 
 5. Once verified, snip off the protruding pins for a cleaner look:
