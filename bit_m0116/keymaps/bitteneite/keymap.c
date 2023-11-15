@@ -11,7 +11,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 
 	[0] = LAYOUT_m0116(
 	
-		DF(0),
+		RESET,
 		
 		KC_GESC,
 		KC_1,
@@ -95,13 +95,13 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 		
 		KC_SPC,
 		
-		KC_NO,
+		KC_BSLASH,
 		KC_LEFT,
 		KC_DOWN,
 		KC_UP,
 		KC_RIGHT,
 		KC_0,
-		KC_SLSH
+		KC_DOT
 	),
 	
 	[1] = LAYOUT_m0116(
