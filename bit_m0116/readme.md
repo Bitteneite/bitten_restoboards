@@ -50,7 +50,7 @@ This section will cover how you can easily flash your RP2040-based controller. M
 	- Your RP2040 controller should reboot in a second.
 <img src='https://github.com/Bitteneite/bitten_restoboards/blob/main/photos/prep-3.jpg ' width='500'>
 
-If you've done everything correctly, Vial should now recognize your RP2040 controller as an M0116 keyboard!
+✅ If you've done everything correctly, Vial should now recognize your RP2040 controller as an M0116 keyboard!
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/vial_preview.png ' width='500'>
 
 ## Assembling Instructions
@@ -77,7 +77,7 @@ This section will guide you through the process of assembling your PCB. Be prepa
 5. Once verified, snip off the protruding pins for a cleaner look:
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
 
-Congratulations! Your PCB is now ready for installation!
+✅ Congratulations! Your PCB is now ready for installation!
 
 ## Detachable Cable (Optional)
 At this point, your M0116 PCB is ready to go! However, if you're like to give it that finishing touch, you should look into wiring up a custom connector!
