@@ -19,7 +19,7 @@ This repository contains the QMK firmware for a custom PCB designed for the vint
 
 ## Features
 
-- **Full NKRO (N-Key Rollover):** The M0116 keyboard is known for having a limiting 2KRO logic. Our custom PCB eliminates this restriction, ensuring a surefire experience during intense gaming and typing sessions.
+- **Full NKRO (N-Key Rollover):** The M0116 keyboard is known for having a limiting 2KRO logic. The custom PCB eliminates this restriction, ensuring a surefire experience during intense gaming and typing sessions.
 - **QMK/Vial Support:** Utilize the vast potential of QMK firmware, coupled with the user-friendly simplicity of Vial configurator.
 - **Multi-Layout Compatibility**: The PCB is designed to accommodate both M0116 and M0118 layouts, providing users with flexibility.
 - **User-Friendly Assembly:** Enjoy a hassle-free assembly process with off-the-shelf components and a through-hole design.
