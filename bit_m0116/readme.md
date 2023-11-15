@@ -50,7 +50,7 @@ This section will cover how you can easily flash your RP2040-based controller. M
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
 
 5. If you've done everything correctly, Vial should now recognize your RP2040 controller as an M0116 keyboard!
-<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/vial_preview.png ' width='1000'>
+<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/vial_preview.png ' width='500'>
 
 ## Assembling Instructions
 This section will guide you through the process of assembling your PCB. Be prepared for extensive use of your soldering iron and wire-cutter!
