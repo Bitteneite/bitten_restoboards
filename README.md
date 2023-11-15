@@ -7,7 +7,7 @@
 
 ## About us...
 
-We understand that you had many choices when it came to Custom PCBs. Yes, we are just as surprised as you are!
+We understand that you had many choices when it came to Custom PCBs. Yes, we are just as surprised as you are!<br>
 At General Bittens Electrics Incorporated, we are passionate about ruining the legacy of mechanical keyboards by putting them on the desks of our future generation!
 
 ## Catalogue
