@@ -7,20 +7,21 @@
 
 This repository contains the QMK firmware for a custom PCB designed for the vintage Apple M0116 keyboard. The PCB is a through-hole kit that requires a Raspberry Pi Pico or any RP2040 clone, along with approximately 81 diodes (or 84 diodes for M0118 keyboards).
 
-## Keyboard Specifications
+
+### Features
+
+- **Full NKRO (N-Key Rollover):** The M0116 keyboard is known for having a limiting 2KRO logic. The custom PCB eliminates this restriction, ensuring a surefire experience during intense gaming and typing sessions.
+- **QMK/Vial Support:** Utilize the vast potential of QMK firmware, coupled with the user-friendly simplicity of Vial configurator.
+- **Multi-Layout Compatibility**: The PCB is designed to accommodate both M0116 and M0118 layouts, providing users with flexibility.
+- **User-Friendly Assembly:** Enjoy a hassle-free assembly process with off-the-shelf components and a through-hole design.
+
+### Keyboard Specifications
 |	Info			|	Description				|
 |	------------	|	------------			|
 |	Years of prod.	|	1987—1990				|
 |	Branding		|	Apple Computers Inc.	|
 |	Model			|	Standard Keyboard		|
 |	Part No.		|	M0116/M0118				|
-
-## Features
-
-- **Full NKRO (N-Key Rollover):** The M0116 keyboard is known for having a limiting 2KRO logic. The custom PCB eliminates this restriction, ensuring a surefire experience during intense gaming and typing sessions.
-- **QMK/Vial Support:** Utilize the vast potential of QMK firmware, coupled with the user-friendly simplicity of Vial configurator.
-- **Multi-Layout Compatibility**: The PCB is designed to accommodate both M0116 and M0118 layouts, providing users with flexibility.
-- **User-Friendly Assembly:** Enjoy a hassle-free assembly process with off-the-shelf components and a through-hole design.
 
 ## Prerequisites
 
