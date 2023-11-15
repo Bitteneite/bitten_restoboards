@@ -71,16 +71,17 @@ This section will cover the steps to build your PCB. A soldering iron and a pair
 5. Once verified, snip off the protruding pins for a cleaner look:
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
 
+Congratulations! Your PCB is now ready for installation!
 
-6. (OPTIONAL) Wire up the controller to a Type-C socket:
-	- You can use any socket of your choice. I just used this one because it fit in without modification.
-	- If you were to use the similar socket, you'll need to chop up a Type-C cable and wire it up correctly to the 4 wires.
-	- General cable knowledge is required. Alternatively, you could just plug in a normal Type-C cable directly into the controller.
+## Detachable Cable (Optional)
+At this point, your M0116 PCB is ready to go! However, if you're like to give it that finishing touch, you should look into wiring up a custom connector!
+	- You can use any socket of your choice. I just used this one because it fits in without modification.
+	- If you were to use the similar socket, you'll need to chop up a Type-C cable and wire it up correctly.
+	- Basic cable-making knowledge is recommended.
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/socket-example-1.jpg ' width='500'>
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/socket-example-3.jpg ' width='500'>
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/socket-example-2.jpg ' width='500'>
 
-Congratulations! Your PCB is now ready for installation!
 
 ## Customization
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/vial_preview.png ' width='1000'>
