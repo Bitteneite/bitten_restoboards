@@ -85,8 +85,11 @@ At this point, your M0116 PCB is ready to go! However, if you're like to give it
 
 
 ## Customization
+Voila! Vial should now automatically recognize your Apple M0116 keyboard!
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/vial_preview.png ' width='1000'>
 
+## My Build
+[WIP]
 
 ## Contact
 
