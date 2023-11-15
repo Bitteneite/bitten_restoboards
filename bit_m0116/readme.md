@@ -12,26 +12,26 @@ The PCB is a through-hole kit that requires a Raspberry Pi Pico or any RP2040 cl
 
 ### Features
 
-- **Full NKRO (N-Key Rollover):** The M0116 keyboard is known for having a limiting 2KRO logic. The custom PCB eliminates this restriction, ensuring a surefire experience during intense gaming and typing sessions.
+- **Full NKRO (N-Key Rollover):** The M0116 keyboard is known for having a limiting 2KRO logic. My custom PCB eliminates this restriction, ensuring a surefire experience during intense gaming and typing sessions.
 - **QMK/Vial Support:** Utilize the vast potential of QMK firmware, coupled with the user-friendly simplicity of Vial configurator.
 - **Multi-Layout Compatibility**: The PCB is designed to accommodate both M0116 and M0118 layouts, providing users with flexibility.
 - **User-Friendly Assembly:** Enjoy a hassle-free assembly process with off-the-shelf components and a through-hole design.
 
 ### Keyboard Specifications
-|	Info			|	Description				|
+|	Info		|	Description			|
 |	------------	|	------------			|
-|	Years of prod.	|	1987—1990				|
-|	Branding		|	Apple Computers Inc.	|
-|	Model			|	Standard Keyboard		|
-|	Part No.		|	M0116/M0118				|
+|	Years of prod.	|	1987—1990			|
+|	Branding	|	Apple Computers Inc.		|
+|	Model		|	Standard Keyboard		|
+|	Part No.	|	M0116/M0118			|
 
 ## Prerequisites
 
-|	Q		|	Item				|	Description				|	Example						|
-|	------------		|----					|	------------					|	------------					|
-|	x1					|	Controller		|	RP2040						|	[Raspberry Pi Pico](https://www.aliexpress.com/item/1005003928558306.html)		|
-|	x81					|	Diodes			|	DO-35						|	[1N4148](https://www.aliexpress.com/item/4001126137167.html)		|
-|	x1 	|	Type-C Socket|		Cable Port						|	[Link (Optional)](https://www.aliexpress.com/item/1005005565293821.html)		|
+|	Q		|	Item		|	Description		|	Example											|
+|	------------	|----			|	------------		|	------------										|
+|	x1		|	Controller	|	RP2040			|	[Raspberry Pi Pico](https://www.aliexpress.com/item/1005003928558306.html)		|
+|	x81		|	Diodes		|	DO-35			|	[1N4148](https://www.aliexpress.com/item/4001126137167.html)				|
+|	x1 		|	Type-C Socket	|	Cable Port		|	[Link (Optional)](https://www.aliexpress.com/item/1005005565293821.html)		|
 - [Vial](https://get.vial.today/) will be required for verification. Please ensure that it's installed and running correctly.
 - M0118 keyboards use an ISO layout, which will need 3 extra diodes. Their location on the PCB will be denoted by a symbol.
 - A decent soldering iron and a pair of sharp wire-cutters are recommended!
