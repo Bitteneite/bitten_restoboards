@@ -45,8 +45,11 @@ This section will cover how you can easily flash your RP2040-based controller. M
 3. A new device should be connected to your computer. Open the device directory:
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
 
-5. Drag the .uf2 file into your newly connected device. Your RP2040 controller should reboot in a second!
+4. Drag the .uf2 file into your newly connected device. Your RP2040 controller should reboot in a second:
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
+
+5. If you've done everything correctly, Vial should now recognize your RP2040 controller as an M0116 keyboard!
+<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/vial_preview.png ' width='1000'>
 
 ## Assembling Instructions
 This section will cover the steps to build your PCB. A soldering iron and a pair of snippers will be required, but otherwise, it should be an easy journey ahead!
@@ -82,11 +85,6 @@ At this point, your M0116 PCB is ready to go! However, if you're like to give it
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/socket-example-1.jpg ' width='500'>
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/socket-example-3.jpg ' width='500'>
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/socket-example-2.jpg ' width='500'>
-
-
-## Customization
-Voila! Vial should now automatically recognize your Apple M0116 keyboard!
-<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/vial_preview.png ' width='1000'>
 
 ## My Build
 [WIP]
