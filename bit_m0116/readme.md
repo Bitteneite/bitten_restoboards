@@ -10,7 +10,6 @@ By implementing NKRO, the keyboard becomes an absolute joy to use for a daily dr
 The result is an amazing vintage keyboard that's compact, versatile, and awesome to use!
 
 <br>
-<br>
 The PCB is a through-hole kit that requires a Raspberry Pi Pico or any RP2040 clone, which makes it a fairly cheap & easy project!
 
 ### Features
