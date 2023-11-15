@@ -30,6 +30,7 @@ This repository contains the QMK firmware for a custom PCB designed for the vint
 |	x81					|	Diodes			|	DO-35						|	[1N4148](https://www.aliexpress.com/item/4001126137167.html)		|
 |	x1 	|	Type-C Socket|		Cable Port						|	[Link (Optional)](https://www.aliexpress.com/item/1005005565293821.html)		|
 - [Vial](https://get.vial.today/) will be required for verification. Please ensure that it's installed and running correctly.
+- M0118 keybaords use an ISO layout, which will need 3 extra diodes. Their location on the PCB will be denoted by a symbol.
 
 ## Preparation
 This section will cover how you can easily flash your RP2040-based controller. My unit was a cheap clone I bought off of AliExpress.
@@ -50,7 +51,7 @@ This section will cover how you can easily flash your RP2040-based controller. M
 This section will cover the steps to build your PCB. A soldering iron and a pair of snippers will be required, but otherwise, it should be an easy journey ahead!
 
 1. Install the 1N4148 diodes into the PCB:
-	- Some diode locations are dedicated to the M0118 layout!
+	- Some diode locations are dedicated only to the M0118 layout! You can safely ignore them.
 	- To secure the diode in place before soldering, try bending down the diode on the other side.
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
 
