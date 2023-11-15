@@ -89,7 +89,9 @@ At this point, your M0116 PCB is ready to go! However, if you're like to give it
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/socket-example-3.jpg ' width='500'>
 
 ## My Build
-[WIP]
+(Video here)
+(Modlist here)
+[Restoration Log](https://photos.app.goo.gl/cXroJ1pDgp9bM6tA6)
 
 ## Contact
 
