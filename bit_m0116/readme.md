@@ -1,4 +1,4 @@
-
+![socket-example-2](https://github.com/Bitteneite/bitten_restoboards/assets/5614646/5498ea77-9234-403c-93d5-c488c0ea47a1)
 <p align="center">
   <img align="center" width="500" src="https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/logo3.png" />
 </p>
@@ -35,6 +35,7 @@ This repository contains the QMK firmware for a custom PCB designed for the vint
 - [Vial](https://get.vial.today/) will be required for verification. Please ensure that it's installed and running correctly.
 
 ## Preparation
+This section will cover how you can easily flash your RP2040-based controller. My unit was a cheap clone I bought off of AliExpress.
 
 1. Download the .uf2 firmware file:
 
@@ -49,16 +50,20 @@ This repository contains the QMK firmware for a custom PCB designed for the vint
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
 
 ## Assembling Instructions
+This section will cover the steps to build your PCB. A soldering iron and a pair of snippers will be required, but otherwise, it should be an easy journey ahead!
 
 1. Install the 1N4148 diodes into the PCB:
-	- Some diodes locations are dedicated to the M0118 layout!
+	- Some diode locations are dedicated to the M0118 layout!
+	- To secure the diode in place before soldering, try bending down the diode on the other side.
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
 
 2. Place the Standoffs onto your RP2040 controller the "incorrect" way:
-	- This will minimize the height of your RP2040 and avoid clearance issues.
+	- This will minimize the height of your RP2040 controller and avoid clearance issues.
+	- You can just solder the 4 corners, for now.
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
 
 3. Solder your RP2040 controller onto the PCB:
+	- Solder all the pins. The solder should flow into the RP2040 controller's pads.
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
 
 4. Short each switch manually using a pair of tweezers:
@@ -67,6 +72,15 @@ This repository contains the QMK firmware for a custom PCB designed for the vint
 
 5. Once verified, snip off the protruding pins for a cleaner look:
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
+
+
+6. (OPTIONAL) Wire up the controller to a Type-C socket:
+	- You can use any socket of your choice. I just used this one because it fit in without modification.
+	- If you were to use the similar socket, you'll need to chop up a Type-C cable and wire it up correctly to the 4 wires.
+	- General cable knowledge is required. Alternatively, you could just plug in a normal Type-C cable directly into the controller.
+<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/socket-example-1.jpg ' width='500'>
+<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/socket-example-2.jpg ' width='500'>
+<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/socket-example-3.jpg ' width='500'>
 
 Congratulations! Your PCB is now ready for installation!
 
