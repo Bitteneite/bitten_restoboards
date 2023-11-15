@@ -1,4 +1,3 @@
-![socket-example-2](https://github.com/Bitteneite/bitten_restoboards/assets/5614646/5498ea77-9234-403c-93d5-c488c0ea47a1)
 <p align="center">
   <img align="center" width="500" src="https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/logo3.png" />
 </p>
@@ -79,8 +78,8 @@ This section will cover the steps to build your PCB. A soldering iron and a pair
 	- If you were to use the similar socket, you'll need to chop up a Type-C cable and wire it up correctly to the 4 wires.
 	- General cable knowledge is required. Alternatively, you could just plug in a normal Type-C cable directly into the controller.
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/socket-example-1.jpg ' width='500'>
-<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/socket-example-2.jpg ' width='500'>
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/socket-example-3.jpg ' width='500'>
+<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/socket-example-2.jpg ' width='500'>
 
 Congratulations! Your PCB is now ready for installation!
 
