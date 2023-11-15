@@ -1,7 +1,6 @@
 ## Keymaps
-|	Name		        |	Description			|
-|	------------	  |	------------			|
-|	bitteneite      |	1987—1990			|
-|	default	        |	Apple Computers Inc.		|
-|	default_m0118    |	Standard Keyboard		|
-|	Part No.	      |	M0116/M0118			|
+|	Name		        |	Description                                   |
+|	------------	  |	------------			                            |
+|	bitteneite      |	My personal layout. Has some quirks.          |
+|	default	        |	Default M0116 layout.		                      |
+|	default_m0118   |	Default M0118 layout.		                      |
