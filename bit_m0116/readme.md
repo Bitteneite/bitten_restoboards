@@ -32,7 +32,7 @@ This repository contains the QMK firmware for a custom PCB designed for the vint
 |	x1					|	Controller		|	RP2040						|	[Raspberry Pi Pico](https://www.aliexpress.com/item/1005003928558306.html)		|
 |	x81					|	Diodes			|	DO-35						|	[1N4148](https://www.aliexpress.com/item/4001126137167.html)		|
 |	x1 	|	Type-C Socket|		Cable Port						|	[Link (Optional)](https://www.aliexpress.com/item/1005005565293821.html)		|
-- Ensure that [Vial](https://get.vial.today/) is installed and running. It will be required for verification.
+- [Vial](https://get.vial.today/) will be required for verification. Please ensure that it's installed and running correctly.
 
 ## Preparation
 
