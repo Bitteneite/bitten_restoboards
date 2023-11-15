@@ -76,9 +76,9 @@ Congratulations! Your PCB is now ready for installation!
 
 ## Detachable Cable (Optional)
 At this point, your M0116 PCB is ready to go! However, if you're like to give it that finishing touch, you should look into wiring up a custom connector!
-	- You can use any socket of your choice. I just used this one because it fits in without modification.
-	- If you were to use the similar socket, you'll need to chop up a Type-C cable and wire it up correctly.
-	- Basic cable-making knowledge is recommended.
+- You can use any socket of your choice. I just used this one because it fits in without modification.
+- If you were to use the similar socket, you'll need to chop up a Type-C cable and wire it up correctly.
+- Basic cable-making knowledge is recommended.
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/socket-example-1.jpg ' width='500'>
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/socket-example-3.jpg ' width='500'>
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/socket-example-2.jpg ' width='500'>
