@@ -5,7 +5,8 @@
 # QMK Firmware for Bittens Inc. M0116 PCB
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/m0116-built.jpg ' width='1000'>
 
-This repository contains the QMK firmware for a custom PCB designed for the vintage Apple M0116 keyboard. The PCB is a through-hole kit that requires a Raspberry Pi Pico or any RP2040 clone, along with approximately 81 diodes (or 84 diodes for M0118 keyboards).
+This repository contains the QMK firmware for a custom PCB designed for the vintage Apple M0116 keyboard.<br>
+The PCB is a through-hole kit that requires a Raspberry Pi Pico or any RP2040 clone, along with approximately 81 diodes (or 84 diodes for M0118 keyboards).
 
 
 ### Features
@@ -54,7 +55,8 @@ This section will cover how you can easily flash your RP2040-based controller. M
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/vial_preview.png ' width='500'>
 
 ## Assembling Instructions
-This section will guide you through the process of assembling your PCB. Be prepared for extensive use of your soldering iron and wire-cutter!
+This section will guide you through the process of assembling your PCB. 
+_Be prepared for extensive use of your soldering iron and wire-cutter!_
 
 1. Install the 1N4148 diodes into the PCB:
 	- Some diode locations are dedicated only to the M0118 layout! You can safely ignore them.
