@@ -64,7 +64,7 @@ This section will guide you through the process of assembling your PCB. Be prepa
 2. Place the Standoffs onto your RP2040 controller the "incorrect" way:
 	- This will minimize the height of your RP2040 controller and avoid clearance issues.
 	- You can just solder the 4 corners, for now.
-<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
+<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/assemb-2.jpg ' width='500'>
 
 3. Solder your RP2040 controller onto the PCB:
 	- Solder all the pins. The solder should flow into the RP2040 controller's pads.
