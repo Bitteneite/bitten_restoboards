@@ -52,7 +52,7 @@ This section will cover how you can easily flash your RP2040-based controller. M
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/vial_preview.png ' width='1000'>
 
 ## Assembling Instructions
-This section will cover the steps to build your PCB. A soldering iron and a pair of snippers will be required, but otherwise, it should be an easy journey ahead!
+This section will guide you through the process of assembling your PCB. Be prepared for extensive use of your soldering iron and wire-cutter!
 
 1. Install the 1N4148 diodes into the PCB:
 	- Some diode locations are dedicated only to the M0118 layout! You can safely ignore them.
