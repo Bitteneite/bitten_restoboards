@@ -43,14 +43,14 @@ This section will cover how you can easily flash your RP2040-based controller. M
 
 2. Set your Raspberry Pi Pico into Bootloader:
 	- Press the BOOT and RST buttons simultaneously.
-<img src='https://github.com/Bitteneite/bitten_restoboards/blob/main/photos/prep-1.jpg ' width='500'>
+<img src='https://github.com/Bitteneite/bitten_restoboards/blob/main/bit_m0116/photos/prep-1.jpg ' width='500'>
 
 3. A new device should be connected to your computer. Open the device directory:
 <img src='https://github.com/Bitteneite/bitten_restoboards/blob/main/photos/prep-2.jpg ' width='500'>
 
 4. Drag the .uf2 file into your newly connected device:
 	- Your RP2040 controller should reboot in a second.
-<img src='https://github.com/Bitteneite/bitten_restoboards/blob/main/photos/prep-3.jpg ' width='500'>
+<img src='https://github.com/Bitteneite/bitten_restoboards/blob/main/bit_m0116/photos/prep-3.jpg ' width='500'>
 
 ✅ If you've done everything correctly, Vial should now recognize your RP2040 controller as an M0116 keyboard!
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/vial_preview.png ' width='500'>
