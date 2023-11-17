@@ -62,7 +62,7 @@ _Be prepared for extensive use of your soldering iron and wire-cutter!_
 1. Install the 1N4148 diodes into the PCB:
 	- Some diode locations are dedicated only to the M0118 layout! You can safely ignore them.
 	- To secure the diode in place before soldering, try bending down the diode on the other side.
-<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
+<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/assemb-1.jpg ' width='500'>
 
 2. Place the Standoffs onto your RP2040 controller the "incorrect" way:
 	- This will minimize the height final of your RP2040 controller and avoid clearance issues.
@@ -71,7 +71,7 @@ _Be prepared for extensive use of your soldering iron and wire-cutter!_
 
 3. Solder your RP2040 controller onto the PCB:
 	- Solder all the pins. The solder should flow into the RP2040 controller's pads.
-<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
+<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/assemb-3.jpg ' width='500'>
 
 4. Short each switch manually using a pair of tweezers:
 	- Verify that each switch is triggering reliably.
