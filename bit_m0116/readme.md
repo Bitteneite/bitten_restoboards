@@ -16,7 +16,7 @@ The PCB is a through-hole kit that requires a Raspberry Pi Pico or any RP2040 cl
 - **QMK/Vial Support:** Utilize the vast potential of QMK firmware, coupled with the user-friendly simplicity of Vial configurator.
 - **Multi-Layout Compatibility**: The PCB is designed to accommodate both M0116 and M0118 layouts, providing users with flexibility.
 - **User-Friendly Assembly:** Enjoy a hassle-free assembly process with off-the-shelf components and a through-hole design.
-
+ 
 ### Keyboard Specifications
 |	Info		|	Description			|
 |	------------	|	------------			|
