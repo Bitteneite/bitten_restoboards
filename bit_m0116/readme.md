@@ -30,10 +30,10 @@ The PCB is a through-hole kit that requires a Raspberry Pi Pico or any RP2040 cl
 
 |	Q		|	Item		|	Description		|	Importance		|	Example											|
 |	------------	|----			|	------------		|	------------		|	------------										|
-|	x1		|	Controller	|	RP2040			|		*Mandatory*		| [Raspberry Pi Pico](https://www.aliexpress.com/item/1005003928558306.html)		|
-|	x81		|	Diodes		|	DO-35			|		*Mandatory*	|	[1N4148](https://www.aliexpress.com/item/4001126137167.html)				|
-|	x1 		|	Type-C Socket	|	Cable Port		|		Optional		|	[Link](https://www.aliexpress.com/item/1005005565293821.html)		|
-|	x40 		|	Pin Headers	|	—		|		Optional		|	[40x Top bending DW](https://www.aliexpress.com/item/4000660389713.html)		|
+|	x1		|	Controller	|	RP2040			|	*Mandatory*		|	[Raspberry Pi Pico](https://www.aliexpress.com/item/1005003928558306.html)		|
+|	x81		|	Diodes		|	DO-35			|	*Mandatory*		|	[1N4148](https://www.aliexpress.com/item/4001126137167.html)				|
+|	x1 		|	Type-C Socket	|	Cable Port		|	Optional		|	[Link](https://www.aliexpress.com/item/1005005565293821.html)				|
+|	x40 		|	Pin Headers	|	—			|	Optional		|	[40x Top bending DW](https://www.aliexpress.com/item/4000660389713.html)		|
 
 
 - [Vial](https://get.vial.today/) will be required for verification. Please ensure that it's installed and running correctly.
@@ -94,13 +94,13 @@ There are five components to install, but you can install them in any order.
 
 ### Prerequisites
 
-|	Q		|	Item		|	Description		|	Importance		|	Example											|
-|	------------	|----			|	------------		|	------------		|	------------										|
-|	x1 		|	MOSFET		|	TIP120		|		*Mandatory*		|	[Link](https://www.aliexpress.com/item/1005006131704396.html)		|
-|	x1 		|	Capacitor 	|	2.2 — 4.7uF		|		*Mandatory*		|	[Link](https://www.aliexpress.com/item/4000822340335.html)		|
-|	x1 		|	Resistor	|	1k — 10k Ω		|		*Mandatory*		|	[Link](https://www.aliexpress.com/item/32660635741.html)		|
-|	x2 		|	Pin Header	|	Cable Port		|		Optional		|	[Top bending DW](https://www.aliexpress.com/item/4000660389713.html)		|
-|	x2 		|	Jumper Cable	|	Female End		|		Optional	|	[Link](https://www.aliexpress.com/item/1005006050213130.html)		|
+|	Q		|	Item		|	Description		|	Importance		|	Example									|
+|	------------	|----			|	------------		|	------------		|	------------								|
+|	x1 		|	MOSFET		|	TIP120			|	*Mandatory*		|	[Link](https://www.aliexpress.com/item/1005006131704396.html)		|
+|	x1 		|	Capacitor 	|	2.2 — 4.7uF		|	*Mandatory*		|	[Link](https://www.aliexpress.com/item/4000822340335.html)		|
+|	x1 		|	Resistor	|	1k — 10k Ω		|	*Mandatory*		|	[Link](https://www.aliexpress.com/item/32660635741.html)		|
+|	x2 		|	Pin Header	|	Cable Port		|	Optional		|	[Top bending DW](https://www.aliexpress.com/item/4000660389713.html)	|
+|	x2 		|	Jumper Cable	|	Female End		|	Optional		|	[Link](https://www.aliexpress.com/item/1005006050213130.html)		|
 
 
 - [Vial](https://get.vial.today/) will be required for configuration. Please ensure that it's installed and running correctly.
@@ -108,21 +108,27 @@ There are five components to install, but you can install them in any order.
 - You can solder the solenoid into the PCB directly without the Pin Headers, but this is not recommended.
 
 TIP120:
+
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
 
 2.2uF — 4.7 uF Capacitor:
+
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
 
 1k — 10k Ω Resistor:
+
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
 
 DO-35 Diode:
+
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
 
 Male Pin Headers:
+
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
 
 Solenoid Headers:
+
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
 
 ✅ Congratulations! You can now configure your solenoid in Vial.
