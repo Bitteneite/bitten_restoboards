@@ -36,7 +36,7 @@ The PCB is a through-hole kit that requires a Raspberry Pi Pico or any RP2040 cl
 
 
 - [Vial](https://get.vial.today/) will be required for verification. Please ensure that it's installed and running correctly.
-- M0118 keyboards use an ISO layout, which will need 3 extra diodes. Their location on the PCB is denoted by a symbol.
+- M0118 keyboards use an ISO layout, which will need 84 diodes instead. Their location on the PCB is denoted by a symbol.
 - The Pin Headers listed above can make assembly easier.
 - A decent soldering iron and a pair of sharp wire-cutters are recommended!
 
