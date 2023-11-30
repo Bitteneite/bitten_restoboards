@@ -26,6 +26,7 @@ The PCB is a through-hole kit that requires a Raspberry Pi Pico or any RP2040 cl
 |	Model		|	Standard Keyboard		|
 |	Part No.	|	M0116/M0118			|
 
+# Assembling
 ### Prerequisites
 
 |	Q		|	Item		|	Description		|	Importance		|	Example											|
@@ -40,7 +41,7 @@ The PCB is a through-hole kit that requires a Raspberry Pi Pico or any RP2040 cl
 - The Pin Headers listed above can make assembly easier.
 - A decent soldering iron and a pair of sharp wire-cutters are recommended!
 
-## Preparation
+## Flashing
 This section will cover how you can easily flash your RP2040-based controller. My unit was a cheap clone I bought off of AliExpress.
 
 1. Download the .uf2 firmware file:
@@ -59,7 +60,7 @@ This section will cover how you can easily flash your RP2040-based controller. M
 ✅ If you've done everything correctly, Vial should now recognize your RP2040 controller as an M0116 keyboard!
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/vial_preview.png ' width='750'>
 
-## Assembling Instructions
+## Building
 This section will guide you through the process of assembling your PCB. 
 _Be prepared for extensive use of your soldering iron and wire-cutter!_
 
@@ -86,7 +87,7 @@ _Be prepared for extensive use of your soldering iron and wire-cutter!_
 
 ✅ Congratulations! Your PCB is now ready for installation!
 
-## Solenoid Instructions (Optional)
+# Solenoid (Optional)
 
 This section will guide you through the process of installing all the components needed for a solenoid!
 There are five components to install, but you can install them in any order.
@@ -132,7 +133,7 @@ Solenoid Headers:
 
 ✅ Congratulations! You can now configure your solenoid in Vial.
 
-## Detachable Cable (Optional)
+# Detachable Cable (Optional)
 At this point, your M0116 PCB is ready to go! However, if you're like to give it that finishing touch, you should wire up a custom connector!
 
 ### Prerequisites
