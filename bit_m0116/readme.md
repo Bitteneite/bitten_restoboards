@@ -151,7 +151,11 @@ At this point, your M0116 PCB is ready to go! However, if you're like to give it
 
 ## My Build
 (Video here)
-(Modlist here)
+
+Modifications:
+- Click-modded with leafs from SKCM Whites.
+- 2mm EVA Foam on the bottom case.
+
 [Restoration Log](https://photos.app.goo.gl/cXroJ1pDgp9bM6tA6)
 
 ## Contact
