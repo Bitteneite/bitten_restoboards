@@ -26,7 +26,7 @@ The PCB is a through-hole kit that requires a Raspberry Pi Pico or any RP2040 cl
 |	Model		|	Standard Keyboard		|
 |	Part No.	|	M0116/M0118			|
 
-## Prerequisites
+### Prerequisites
 
 |	Q		|	Item		|	Description		|	Importance		|	Example											|
 |	------------	|----			|	------------		|	------------		|	------------										|
@@ -135,7 +135,7 @@ Solenoid Headers:
 ## Detachable Cable (Optional)
 At this point, your M0116 PCB is ready to go! However, if you're like to give it that finishing touch, you should wire up a custom connector!
 
-## Prerequisites
+### Prerequisites
 
 |	Q		|	Item		|	Description		|	Importance		|	Example											|
 |	------------	|----			|	------------		|	------------		|	------------										|
