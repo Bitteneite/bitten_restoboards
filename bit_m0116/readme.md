@@ -32,7 +32,6 @@ The PCB is a through-hole kit that requires a Raspberry Pi Pico or any RP2040 cl
 |	------------	|----			|	------------		|	------------		|	------------										|
 |	x1		|	Controller	|	RP2040			|	*Mandatory*		|	[Raspberry Pi Pico](https://www.aliexpress.com/item/1005003928558306.html)		|
 |	x81		|	Diodes		|	DO-35			|	*Mandatory*		|	[1N4148](https://www.aliexpress.com/item/4001126137167.html)				|
-|	x1 		|	Type-C Socket	|	Cable Port		|	Optional		|	[Link](https://www.aliexpress.com/item/1005005565293821.html)				|
 |	x40 		|	Pin Headers	|	—			|	Optional		|	[40x Top bending DW](https://www.aliexpress.com/item/4000660389713.html)		|
 
 
@@ -135,6 +134,14 @@ Solenoid Headers:
 
 ## Detachable Cable (Optional)
 At this point, your M0116 PCB is ready to go! However, if you're like to give it that finishing touch, you should wire up a custom connector!
+
+## Prerequisites
+
+|	Q		|	Item		|	Description		|	Importance		|	Example											|
+|	------------	|----			|	------------		|	------------		|	------------										|
+|	x1 		|	Type-C Socket	|	Cable Port		|	Mandatory		|	[Link](https://www.aliexpress.com/item/1005005565293821.html)				|
+|	x1 		|	Type-C Cable	|	Any old cable		|	Optional		|	—											|
+
 - The Type-C socket I bought fitted without any modification, but you can still use any socket you like!
 - You'll need to chop up a Type-C cable and wire it up correctly, so basic cable-making knowledge is recommended.
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/socket-example-1.jpg ' width='500'>
