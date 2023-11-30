@@ -98,7 +98,7 @@ There are five components to install, but you can install them in any order.
 |	x1 		|	MOSFET		|	TIP120			|	*Mandatory*		|	[Link](https://www.aliexpress.com/item/1005006131704396.html)		|
 |	x1 		|	Capacitor 	|	2.2 — 4.7uF		|	*Mandatory*		|	[Link](https://www.aliexpress.com/item/4000822340335.html)		|
 |	x1 		|	Resistor	|	1k — 10k Ω		|	*Mandatory*		|	[Link](https://www.aliexpress.com/item/32660635741.html)		|
-|	x2 		|	Pin Header	|	Cable Port		|	Optional		|	[40x Top bending DW](https://www.aliexpress.com/item/4000660389713.html)	|
+|	x2 		|	Pin Header	|	—			|	Optional		|	[40x Top bending DW](https://www.aliexpress.com/item/4000660389713.html)	|
 |	x2 		|	Jumper Cable	|	Female End		|	Optional		|	[Link](https://www.aliexpress.com/item/1005006050213130.html)		|
 
 
