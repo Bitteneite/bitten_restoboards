@@ -1,3 +1,4 @@
+
 <p align="center">
   <img align="center" width="500" src="https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/logo3.png" />
 </p>
@@ -12,10 +13,10 @@ The PCB is a through-hole kit that requires a Raspberry Pi Pico or any RP2040 cl
 
 ### Features
 
-- **Full NKRO (N-Key Rollover):** The M0116 keyboard is known for having a limiting 2KRO logic. My custom PCB eliminates this restriction, ensuring a surefire experience during intense gaming and typing sessions.
-- **QMK/Vial Support:** Utilize the vast potential of QMK firmware, coupled with the user-friendly simplicity of Vial configurator.
-- **Multi-Layout Compatibility**: The PCB is designed to accommodate both M0116 and M0118 layouts, providing users with flexibility.
-- **User-Friendly Assembly:** Enjoy a hassle-free assembly process with off-the-shelf components and a through-hole design.
+- **Full NKRO (N-Key Rollover):** The M0116 keyboard is known for having a limiting 2KRO logic. This custom PCB eliminates this restriction, ensuring a surefire experience during intense gaming and typing sessions.
+- **Solenoid Support:** A little party trick for when you wanna annoy your roommate... and yourself!
+- **QMK/Vial Support:** Powerful reprogrammability, coupled with the user-friendly Vial configurator!
+- **Multi-Layout Compatibility**: The PCB is designed to accommodate both M0116 and M0118 layouts.
  
 ### Keyboard Specifications
 |	Info		|	Description			|
@@ -27,13 +28,17 @@ The PCB is a through-hole kit that requires a Raspberry Pi Pico or any RP2040 cl
 
 ## Prerequisites
 
-|	Q		|	Item		|	Description		|	Example											|
-|	------------	|----			|	------------		|	------------										|
-|	x1		|	Controller	|	RP2040			|	[Raspberry Pi Pico](https://www.aliexpress.com/item/1005003928558306.html)		|
-|	x81		|	Diodes		|	DO-35			|	[1N4148](https://www.aliexpress.com/item/4001126137167.html)				|
-|	x1 		|	Type-C Socket	|	Cable Port		|	[Link (Optional)](https://www.aliexpress.com/item/1005005565293821.html)		|
+|	Q		|	Item		|	Description		|	Importance		|	Example											|
+|	------------	|----			|	------------		|	------------		|	------------										|
+|	x1		|	Controller	|	RP2040			|		*Mandatory*		| [Raspberry Pi Pico](https://www.aliexpress.com/item/1005003928558306.html)		|
+|	x81		|	Diodes		|	DO-35			|		*Mandatory*	|	[1N4148](https://www.aliexpress.com/item/4001126137167.html)				|
+|	x1 		|	Type-C Socket	|	Cable Port		|		Optional		|	[Link](https://www.aliexpress.com/item/1005005565293821.html)		|
+|	x40 		|	Pin Headers	|	—		|		Optional		|	[40x Top bending DW](https://www.aliexpress.com/item/4000660389713.html)		|
+
+
 - [Vial](https://get.vial.today/) will be required for verification. Please ensure that it's installed and running correctly.
 - M0118 keyboards use an ISO layout, which will need 3 extra diodes. Their location on the PCB is denoted by a symbol.
+- The Pin Headers listed above can make assembly easier.
 - A decent soldering iron and a pair of sharp wire-cutters are recommended!
 
 ## Preparation
@@ -64,7 +69,7 @@ _Be prepared for extensive use of your soldering iron and wire-cutter!_
 	- To secure the diode in place before soldering, try bending down the diode on the other side.
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/assemb-1.jpg ' width='500'>
 
-2. Place the Standoffs onto your RP2040 controller the "incorrect" way:
+2. Install the Pin Headers onto your RP2040 controller the "incorrect" way:
 	- This will minimize the height final of your RP2040 controller and avoid clearance issues.
 	- You can just solder the 4 corners, for now.
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/assemb-2.jpg ' width='500'>
@@ -82,11 +87,50 @@ _Be prepared for extensive use of your soldering iron and wire-cutter!_
 
 ✅ Congratulations! Your PCB is now ready for installation!
 
+## Solenoid Instructions (Optional)
+
+This section will guide you through the process of installing all the components needed for a solenoid!
+There are five components to install, but you can install them in any order.
+
+### Prerequisites
+
+|	Q		|	Item		|	Description		|	Importance		|	Example											|
+|	------------	|----			|	------------		|	------------		|	------------										|
+|	x1 		|	MOSFET		|	TIP120		|		*Mandatory*		|	[Link](https://www.aliexpress.com/item/1005006131704396.html)		|
+|	x1 		|	Capacitor 	|	2.2 — 4.7uF		|		*Mandatory*		|	[Link](https://www.aliexpress.com/item/4000822340335.html)		|
+|	x1 		|	Resistor	|	1k — 10k Ω		|		*Mandatory*		|	[Link](https://www.aliexpress.com/item/32660635741.html)		|
+|	x2 		|	Pin Header	|	Cable Port		|		Optional		|	[Top bending DW](https://www.aliexpress.com/item/4000660389713.html)		|
+|	x2 		|	Jumper Cable	|	Female End		|		Optional	|	[Link](https://www.aliexpress.com/item/1005006050213130.html)		|
+
+
+- [Vial](https://get.vial.today/) will be required for configuration. Please ensure that it's installed and running correctly.
+- The PCB can power the solenoid without the Capacitor and Resistor, but it will be much less reliable.
+- You can solder the solenoid into the PCB directly without the Pin Headers, but this is not recommended.
+
+TIP120:
+<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
+
+2.2uF — 4.7 uF Capacitor:
+<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
+
+1k — 10k Ω Resistor:
+<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
+
+DO-35 Diode:
+<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
+
+Male Pin Headers:
+<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
+
+Solenoid Headers:
+<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
+
+✅ Congratulations! You can now configure your solenoid in Vial.
+
 ## Detachable Cable (Optional)
-At this point, your M0116 PCB is ready to go! However, if you're like to give it that finishing touch, you should look into wiring up a custom connector!
-- You can use any socket of your choice. I just used this one because it fits in without modification.
-- If you were to use the similar socket, you'll need to chop up a Type-C cable and wire it up correctly.
-- Basic cable-making knowledge is recommended.
+At this point, your M0116 PCB is ready to go! However, if you're like to give it that finishing touch, you should wire up a custom connector!
+- The Type-C socket I bought fitted without any modification, but you can still use any socket you like!
+- You'll need to chop up a Type-C cable and wire it up correctly, so basic cable-making knowledge is recommended.
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/socket-example-1.jpg ' width='500'>
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/socket-example-2.jpg ' width='500'>
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/socket-example-3.jpg ' width='500'>
