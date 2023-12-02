@@ -183,6 +183,9 @@ At this point, your M0116 PCB is ready to go! However, if you're like to give it
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/socket-example-2.jpg ' width='500'>
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/socket-example-3.jpg ' width='500'>
 
+
+✅ Congratulations! You can now plug in any Type-C cable of your choice.
+
 <br>
 
 # My Build
