@@ -11,13 +11,6 @@ This repository contains the QMK firmware for my custom PCB designed for the App
 <br>
 The PCB is a through-hole kit that requires a Raspberry Pi Pico or any RP2040 clone, which makes it a fairly cheap & easy project!
 
-### Features
-
-- Full NKRO (N-Key Rollover)
-- Solenoid Support
-- Multi-Layout Compatibility
-- QMK/Vial Support
-
 <br>
 
 # Chapters
@@ -84,7 +77,10 @@ This section will cover how you can easily flash your RP2040-based controller. M
 	- Your RP2040 controller should reboot in a second.
 <img src='https://github.com/Bitteneite/bitten_restoboards/blob/main/photos/prep-3.jpg ' width='750'>
 
+<br>
+
 ✅ If you've done everything correctly, Vial should now recognize your RP2040 controller as an M0116 keyboard!
+
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/vial_preview.png ' width='750'>
 
 ## Installation
@@ -93,17 +89,15 @@ _Be prepared for extensive use of your soldering iron and wire-cutter!_
 
 1. Install the 1N4148 diodes into the PCB:
 	- Some diode locations are dedicated only to the M0118 layout! You can safely ignore them.
-	- To secure the diode in place before soldering, try bending down the diode on the other side.
+	- _Tip: To secure the diode in place before soldering, try bending down the legs on the other side!_
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/assemb-1.jpg ' width='500'>
 
 2. Install the Pin Headers onto your RP2040 controller the "incorrect" way:
 	- This will minimize the height final of your RP2040 controller and avoid clearance issues.
-	- You can just solder the 4 corners, for now.
-<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/assemb-2.jpg ' width='500'>
+<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
 
 3. Solder your RP2040 controller onto the PCB:
-	- Solder all the pins. The solder should flow into the RP2040 controller's pads.
-<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/assemb-3.jpg ' width='500'>
+<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
 
 4. Short each switch manually using a pair of tweezers:
 	- Verify that each switch is triggering reliably.
