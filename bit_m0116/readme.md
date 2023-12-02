@@ -13,18 +13,10 @@ The PCB is a through-hole kit that requires a Raspberry Pi Pico or any RP2040 cl
 
 ### Features
 
-- **Full NKRO (N-Key Rollover):** The M0116 keyboard is known for having a limiting 2KRO logic. This custom PCB eliminates this restriction, ensuring a surefire experience during intense gaming and typing sessions.
-- **Solenoid Support:** A little party trick for when you wanna annoy your roommate... and yourself!
-- **Multi-Layout Compatibility**: The PCB is designed to accommodate both M0116 and M0118 layouts.
-- **QMK/Vial Support:** Powerful reprogrammability, coupled with the user-friendly Vial configurator!
- 
-### Keyboard Specifications
-|	Info		|	Description			|
-|	------------	|	------------			|
-|	Years of prod.	|	1987—1990			|
-|	Branding	|	Apple Computers Inc.		|
-|	Model		|	Standard Keyboard		|
-|	Part No.	|	M0116/M0118			|
+- Full NKRO (N-Key Rollover)
+- Solenoid Support
+- Multi-Layout Compatibility
+- QMK/Vial Support
 
 <br>
 
@@ -46,7 +38,7 @@ The PCB is a through-hole kit that requires a Raspberry Pi Pico or any RP2040 cl
       </ul>
     </li>
     <li>
-      <a href="#detachable-cable-optional">Detachable Cables</a> (Optional)
+      <a href="#detachable-cable-optional">Detachable Cable</a> (Optional)
       <ul>
         <li><a href="#prerequisites-2">Prerequisites</a></li>
         <li><a href="#installation-2">Installation</a></li>
@@ -57,6 +49,8 @@ The PCB is a through-hole kit that requires a Raspberry Pi Pico or any RP2040 cl
 <br>
 
 # Assembling
+
+<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/assemb_preview.jpg ' width='1000'>
 
 In this chapter, we will cover the bare minimum to get PCB up and running. _No frills, no thrills!_
 
