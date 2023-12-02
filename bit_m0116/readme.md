@@ -26,25 +26,27 @@ The PCB is a through-hole kit that requires a Raspberry Pi Pico or any RP2040 cl
 |	Model		|	Standard Keyboard		|
 |	Part No.	|	M0116/M0118			|
 
-### Chapters
+<br>
+
+# Chapters
   <ol>
     <li>
       <a href="#assembling">Assembling</a>
       <ul>
-        <li><a href="###prerequisites">Prerequisites</a></li>
-        <li><a href="##flashing">Flashing</a></li>
-	<li><a href="##installation">Installation</a></li>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#flashing">Flashing</a></li>
+	<li><a href="#installation">Installation</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Solenoid (Optional)</a>
+      <a href="#solenoid-optional">Solenoid</a> (Optional)
       <ul>
         <li><a href="#prerequisites-1">Prerequisites</a></li>
         <li><a href="#installation-1">Installation</a></li>
       </ul>
     </li>
     <li>
-      <a href="#detachable-cable-optional">Detachable Cables</a>
+      <a href="#detachable-cable-optional">Detachable Cables</a> (Optional)
       <ul>
         <li><a href="#prerequisites-2">Prerequisites</a></li>
         <li><a href="#installation-2">Installation</a></li>
@@ -52,14 +54,11 @@ The PCB is a through-hole kit that requires a Raspberry Pi Pico or any RP2040 cl
     </li>
   </ol>
 
+<br>
+
 # Assembling
 
-In this chapter, we will cover the bare minimum to get PCB up and running. 
-(Solenoid Support and Detachable Cables are covered in later chapters)
-(<a href="#solenoid-optional">Solenoid Support</a>)
-(<a href="#detachable-cable-optional">Detachable Cables</a>)
-
-
+In this chapter, we will cover the bare minimum to get PCB up and running. _No frills, no thrills!_
 
 ### Prerequisites
 
@@ -121,6 +120,8 @@ _Be prepared for extensive use of your soldering iron and wire-cutter!_
 
 ✅ Congratulations! Your PCB is now ready for installation!
 
+<br>
+
 # Solenoid (Optional)
 
 This chapter will guide you through the process of installing all the components needed for a solenoid!
@@ -169,6 +170,8 @@ Solenoid Headers:
 
 ✅ Congratulations! You can now configure your solenoid in Vial.
 
+<br>
+
 # Detachable Cable (Optional)
 At this point, your M0116 PCB is ready to go! However, if you're like to give it that finishing touch, you should wire up a custom connector!
 
@@ -186,7 +189,9 @@ At this point, your M0116 PCB is ready to go! However, if you're like to give it
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/socket-example-2.jpg ' width='500'>
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/socket-example-3.jpg ' width='500'>
 
-## My Build
+<br>
+
+# My Build
 (Video here)
 
 Modifications:
@@ -195,7 +200,9 @@ Modifications:
 
 [Restoration Log](https://photos.app.goo.gl/cXroJ1pDgp9bM6tA6)
 
-## Contact
+<br>
+
+# Contact
 
 👤 **Abdullah Al-Marzouqi**
 
