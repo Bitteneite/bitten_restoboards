@@ -15,8 +15,8 @@ The PCB is a through-hole kit that requires a Raspberry Pi Pico or any RP2040 cl
 
 - **Full NKRO (N-Key Rollover):** The M0116 keyboard is known for having a limiting 2KRO logic. This custom PCB eliminates this restriction, ensuring a surefire experience during intense gaming and typing sessions.
 - **Solenoid Support:** A little party trick for when you wanna annoy your roommate... and yourself!
-- **QMK/Vial Support:** Powerful reprogrammability, coupled with the user-friendly Vial configurator!
 - **Multi-Layout Compatibility**: The PCB is designed to accommodate both M0116 and M0118 layouts.
+- **QMK/Vial Support:** Powerful reprogrammability, coupled with the user-friendly Vial configurator!
  
 ### Keyboard Specifications
 |	Info		|	Description			|
