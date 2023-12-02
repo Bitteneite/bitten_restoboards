@@ -16,10 +16,10 @@
 #define VIAL_UNLOCK_COMBO_COLS { 0, 1 }
 
 // Soldenoid
-// #define SOLENOID_DEFAULT_DWELL 10 
-// #define SOLENOID_MAX_DWELL 20
-// #define SOLENOID_MIN_DWELL 5
-// #define SOLENOID_PIN 
+#define SOLENOID_DEFAULT_DWELL 10 
+#define SOLENOID_MAX_DWELL 20
+#define SOLENOID_MIN_DWELL 5
+#define SOLENOID_PIN GP2
 
 /* disable debug print */
 //#define NO_DEBUG

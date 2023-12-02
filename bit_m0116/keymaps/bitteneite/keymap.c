@@ -11,7 +11,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 
 	[0] = LAYOUT_m0116(
 	
-		RESET,
+		OSL(2),
 		
 		KC_GESC,
 		KC_1,
@@ -81,7 +81,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 		KC_COMM,
 		KC_DOT,
 		KC_SLASH,
-		OSL(2),
+		KC_RSHIFT,
 		KC_NO,
 		KC_1,
 		KC_2,
@@ -121,11 +121,11 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 		KC_F10,
 		KC_F11,
 		KC_F12,
-		KC_TRNS,
-		KC_TRNS,
-		KC_TRNS,
-		KC_TRNS,
-		KC_TRNS,
+		LCTL(KC_W),
+		RCS(KC_PGUP),
+		RCS(KC_SPACE),
+		RCS(KC_PGDOWN),
+		LCTL(KC_T),
 		
 		KC_TRNS,
 		KC_TRNS,
@@ -141,9 +141,9 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 		KC_TRNS,
 		KC_TRNS,
 		KC_TRNS,
-		KC_TRNS,
-		KC_TRNS,
-		KC_TRNS,
+		RCS(KC_TAB),
+		KC_F6,
+		LCTL(KC_TAB),
 		KC_TRNS,
 		
 		KC_TRNS,
@@ -201,9 +201,9 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 	
 	[2] = LAYOUT_m0116(
 	
-		RESET,
+		LALT(KC_F4),
 		
-		KC_TRNS,
+		QK_BOOTLOADER,
 		KC_TRNS,
 		KC_TRNS,
 		KC_TRNS,
@@ -218,7 +218,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 		KC_TRNS,
 		KC_TRNS,
 		KC_NUM,
-		KC_TRNS,
+		KC_CALC,
 		KC_TRNS,
 		KC_TRNS,
 		
