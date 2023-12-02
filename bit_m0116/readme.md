@@ -30,8 +30,8 @@ The PCB is a through-hole kit that requires a Raspberry Pi Pico or any RP2040 cl
 
 In this chapter, we will cover the bare minimum to get PCB up and running. 
 (Solenoid Support and Detachable Cables are covered in later chapters)
-(<a href="# Solenoid (Optional)">Solenoid Support</a>)
-(<a href="# Detachable Cable (Optional)">Detachable Cables</a>)
+(<a href="#solenoid-optional">Solenoid Support</a>)
+(<a href="#detachable-cable-optional)">Detachable Cables</a>)
 
 
 
