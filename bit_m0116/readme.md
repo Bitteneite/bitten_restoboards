@@ -140,7 +140,7 @@ There are six components to install, but you can install them in any order.
 
 
 - [Vial](https://get.vial.today/) will be required for configuration. Please ensure that it's installed and running correctly.
-- The PCB can power the solenoid without the Capacitor and Resistor, but it will be much less reliable.
+- You _could_ power the solenoid without the Capacitor and Resistor, but it will be **much less reliable.**
 - You can solder the solenoid into the PCB directly without the Pin Headers, but this is not recommended.
 
 ## Installation
