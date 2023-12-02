@@ -27,6 +27,14 @@ The PCB is a through-hole kit that requires a Raspberry Pi Pico or any RP2040 cl
 |	Part No.	|	M0116/M0118			|
 
 # Assembling
+
+In this chapter, we will cover the bare minimum to get PCB up and running. 
+(Solenoid Support and Detachable Cables are covered in later chapters)
+(<a href="# Solenoid (Optional)">Solenoid Support</a>)
+(<a href="# Detachable Cable (Optional)">Detachable Cables</a>)
+
+
+
 ### Prerequisites
 
 |	Q		|	Item		|	Description		|	Importance		|	Example											|
@@ -89,8 +97,8 @@ _Be prepared for extensive use of your soldering iron and wire-cutter!_
 
 # Solenoid (Optional)
 
-This section will guide you through the process of installing all the components needed for a solenoid!
-There are five components to install, but you can install them in any order.
+This chapter will guide you through the process of installing all the components needed for a solenoid!
+There are six components to install, but you can install them in any order.
 
 ### Prerequisites
 
