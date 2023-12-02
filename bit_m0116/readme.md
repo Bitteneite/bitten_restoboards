@@ -166,7 +166,7 @@ Male Pin Headers:
 
 Solenoid Headers:
 
-<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/sol_header.jpg ' width='250'>
+<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/sol_header.jpg ' width='250'>
 
 ✅ Congratulations! You can now configure your solenoid in Vial.
 
