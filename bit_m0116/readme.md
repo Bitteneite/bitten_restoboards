@@ -1,17 +1,20 @@
 
 <p align="center">
   <img align="center" width="500" src="https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/logo3.png" />
+
+  <h1 align="center">General Bittens Electrics Incorporated</h1>
+  <h6 align="center">Special Keyboard Manufacturing & Restoration Division Ω 1992. No Rights Reserved</h6>
+  
 </p>
 
-# QMK Firmware for Bittens Inc. M0116 PCB
+<br>
+
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/m0116-built.jpg ' width='1000'>
 
 This repository contains the QMK firmware for my custom PCB designed for the Apple M0116 keyboard. These are some of the best vintage keyboards ever made... _if it wasn't for their horrendous matrix._ By implementing NKRO, the keyboard becomes an absolute joy to use for a daily driver! Moreover, the M0116 has a very practical layout that really shines when combined with QMK/Vial. Oh and yeah, solenoids!
 <br>
 <br>
 The PCB is a through-hole kit that requires a Raspberry Pi Pico or any RP2040 clone, which makes it a fairly cheap & easy project!
-
-<br>
 
 # Chapters
   <ol>
