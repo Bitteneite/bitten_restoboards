@@ -141,7 +141,7 @@ At this point, your M0116 PCB is ready to go! However, if you're like to give it
 
 |	Q		|	Item		|	Description		|	Importance		|	Example											|
 |	------------	|----			|	------------		|	------------		|	------------										|
-|	x1 		|	Type-C Socket	|	Cable Port		|	Mandatory		|	[Link](https://www.aliexpress.com/item/1005005565293821.html)				|
+|	x1 		|	Type-C Socket	|	Cable Port		|	*Mandatory*		|	[Link](https://www.aliexpress.com/item/1005005565293821.html)				|
 |	x1 		|	Type-C Cable	|	Any old cable		|	Optional		|	—											|
 
 - The Type-C socket I bought fitted without any modification, but you can still use any socket you like!
