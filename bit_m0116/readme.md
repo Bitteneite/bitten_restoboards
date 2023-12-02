@@ -48,7 +48,7 @@ The PCB is a through-hole kit that requires a Raspberry Pi Pico or any RP2040 cl
 
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/assemb_preview.jpg ' width='1000'>
 
-In this chapter, we will cover the bare minimum to get PCB up and running. _No frills, no thrills!_
+In this chapter, we'll cover the bare minimum to get this PCB up and running. _No frills, no thrills!_
 
 ### Prerequisites
 
