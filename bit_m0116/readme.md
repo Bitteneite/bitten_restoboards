@@ -206,3 +206,7 @@ Modifications:
 - Github: https://github.com/Bitteneite
 - Discord: @BittenEite
 - Instagram: [@bitteneite](https://www.instagram.com/bitteneite/)
+
+<br>
+
+_For damage, sales or directions for use, call Bittens Inc. at 186-555-4196 who assumes no liability in the manufacture of this product. The Bittens Inc. company is an unregistered parody organization which is completely made up by someone’s monkey brains. All external references are used under no damn license by Bittens Inc. Ω1992. No rights reserved._
