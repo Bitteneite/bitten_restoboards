@@ -26,6 +26,32 @@ The PCB is a through-hole kit that requires a Raspberry Pi Pico or any RP2040 cl
 |	Model		|	Standard Keyboard		|
 |	Part No.	|	M0116/M0118			|
 
+### Chapters
+  <ol>
+    <li>
+      <a href="#assembling">Assembling</a>
+      <ul>
+        <li><a href="###prerequisites">Prerequisites</a></li>
+        <li><a href="##flashing">Flashing</a></li>
+	<li><a href="##installation">Installation</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Solenoid (Optional)</a>
+      <ul>
+        <li><a href="#prerequisites-1">Prerequisites</a></li>
+        <li><a href="#installation-1">Installation</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#detachable-cable-optional">Detachable Cables</a>
+      <ul>
+        <li><a href="#prerequisites-2">Prerequisites</a></li>
+        <li><a href="#installation-2">Installation</a></li>
+      </ul>
+    </li>
+  </ol>
+
 # Assembling
 
 In this chapter, we will cover the bare minimum to get PCB up and running. 
@@ -68,7 +94,7 @@ This section will cover how you can easily flash your RP2040-based controller. M
 ✅ If you've done everything correctly, Vial should now recognize your RP2040 controller as an M0116 keyboard!
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/vial_preview.png ' width='750'>
 
-## Building
+## Installation
 This section will guide you through the process of assembling your PCB. 
 _Be prepared for extensive use of your soldering iron and wire-cutter!_
 
@@ -116,6 +142,7 @@ There are six components to install, but you can install them in any order.
 - The PCB can power the solenoid without the Capacitor and Resistor, but it will be much less reliable.
 - You can solder the solenoid into the PCB directly without the Pin Headers, but this is not recommended.
 
+## Installation
 TIP120:
 
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/sol_mosfet.png ' width='250'>
@@ -154,6 +181,7 @@ At this point, your M0116 PCB is ready to go! However, if you're like to give it
 
 - The Type-C socket I bought fitted without any modification, but you can still use any socket you like!
 - You'll need to chop up a Type-C cable and wire it up correctly, so basic cable-making knowledge is recommended.
+## Installation
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/socket-example-1.jpg ' width='500'>
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/socket-example-2.jpg ' width='500'>
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/socket-example-3.jpg ' width='500'>
