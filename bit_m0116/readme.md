@@ -124,6 +124,8 @@ _Be prepared for extensive use of your soldering iron and wire-cutter!_
 
 # Solenoid (Optional)
 
+<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/sol_preview.jpg ' width='1000'>
+
 This chapter will guide you through the process of installing all the components needed for a solenoid!
 There are six components to install, but you can install them in any order.
 
