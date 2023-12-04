@@ -99,20 +99,31 @@ _Be prepared for extensive use of your soldering iron and wire-cutter!_
 	- Direction is important! Follow the symbol on the PCB.
 	- Some diode locations are dedicated only to the M0118 layout! You can safely ignore them.
 	- _Tip: To secure the diode in place before soldering, try bending down the legs on the other side!_
+	- Once soldered in, you can snip off the leg on the other side.
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/assemb-1.jpg ' width='500'>
 
 2. Install the Pin Headers onto your RP2040 controller the "incorrect" way:
 	- This will minimize the height final of your RP2040 controller and avoid clearance issues.
+	- Note 1: If you're using the [bent pin headers](https://www.aliexpress.com/item/4000660389713.html) mentioned previously, you won't need to solder it in.
+	- Note 2: If you're using the straight pin headers included with your Raspberry Pi Pico, solder only the four corners, but keep the solder to a minimum! The protruding legs need to be as thin as possible.
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
 
 3. Solder your RP2040 controller onto the PCB:
+	- If done correctly, the RP2040 controller should seat in all the way.
+	- Note: If you're using the straight pin headers included with your Raspberry Pi Pico and the controller doesn't seat in all the way, go back to Step 2 and suck out any solder left on the protruding legs.
+	- Proceed to solder all the pins.
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
 
-4. Short each switch manually using a pair of tweezers:
-	- Verify that each switch is triggering reliably.
+4. Verify that each switch is triggering reliably:
+	- Open **Vial** and check the "Matrix Tester" tab.
+	- Short each switch manually using a pair of tweezers. The key should light up in Vial.
+	- If a switch doesn't trigger, check the solder joint on the nearby **diode**.
+	- If an entire row/column doesn't trigger, check the solder joint on the **RP2040 Controller**.
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
 
 5. Once verified, snip off the protruding pins for a cleaner look:
+	- If you're using the [bent pin headers](https://www.aliexpress.com/item/4000660389713.html) mentioned previously, snip off at the "bend".
+	- If you're using the straight pin headers included with your Raspberry Pi Pico, snip off the leg as much as you can.
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
 
 ✅ Congratulations! Your PCB is now ready for installation!
