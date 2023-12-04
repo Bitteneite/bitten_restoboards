@@ -97,19 +97,19 @@ _Be prepared for extensive use of your soldering iron and wire-cutter!_
 
 1. Install the 1N4148 diodes into the PCB:
 	- **Direction is important!** Follow the symbol on the PCB.
-	- Some diode locations are dedicated only to the M0118 layout! You can safely ignore those.
+	- Some diode locations are dedicated only to the M0118 layout!
 	- _Tip: To secure the diode in place before soldering, try bending down the legs on the other side!_
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/assemb-1.jpg ' width='500'>
 
 2. Install the Pin Headers onto your RP2040 controller the "incorrect" way:
 	- This will minimize the height final of your RP2040 controller and avoid clearance issues.
-	- Note 1: If you're using the [Bent Pin Headers](https://www.aliexpress.com/item/4000660389713.html) mentioned previously, you won't need to solder it in.
-	- Note 2: If you're using the [Straight Pin Headers](https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/assemb-straight-header.jpg) included with your Raspberry Pi Pico, solder it in, but **keep the solder to a minimum!** (The protruding legs need to be as thin as possible!)
+	- **Note 1:** If you're using the [Bent Pin Headers](https://www.aliexpress.com/item/4000660389713.html) mentioned previously, you won't need to solder it in.
+	- **Note 2:** If you're using the [Straight Pin Headers](https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/assemb-straight-header.jpg) included with your Raspberry Pi Pico, solder it in, but **keep the solder to a minimum!** (The protruding legs need to be as thin as possible!)
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
 
 3. Solder your RP2040 controller onto the PCB:
 	- If done correctly, the RP2040 controller should "seat" in all the way.
-	- Note: If you're using the [Straight Pin Headers](https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/assemb-straight-header.jpg) included with your Raspberry Pi Pico, and the controller doesn't "seat" in all the way, go back to Step 2 and suck out any solder left on the protruding legs.
+	- **Note:** If you're using the [Straight Pin Headers](https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/assemb-straight-header.jpg) included with your Raspberry Pi Pico, and the controller doesn't "seat" in all the way, go back to Step 2 and suck out any solder left on the protruding legs.
 	- Proceed to solder all the pins.
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
 
