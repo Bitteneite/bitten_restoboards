@@ -8,8 +8,7 @@
 <br>
 
 <p align="center">
-Custom PCBs offer a world of possibilities, and somehow, you ended up with us – a choice that leaves us utterly bewildered.<br>
-We're not sure what led you here, but hey, we won't question it too much!
+Custom PCBs offer a world of possibilities, and somehow, you ended up with us – a choice that leaves us utterly bewildered. We're not sure what led you here, but hey, we won't question it too much!
 </p>
 
 
