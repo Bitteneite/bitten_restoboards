@@ -99,7 +99,6 @@ _Be prepared for extensive use of your soldering iron and wire-cutter!_
 	- Direction is important! Follow the symbol on the PCB.
 	- Some diode locations are dedicated only to the M0118 layout! You can safely ignore them.
 	- _Tip: To secure the diode in place before soldering, try bending down the legs on the other side!_
-	- Once soldered in, you can snip off the leg on the other side.
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/assemb-1.jpg ' width='500'>
 
 2. Install the Pin Headers onto your RP2040 controller the "incorrect" way:
