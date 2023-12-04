@@ -9,5 +9,5 @@
 
 - In all keymaps, the **Caps Lock** key is your Layer 1 modifier.
 - In all keymaps, the **Power** key is your Layer 2 modifier.
-- Layer 1 contains all the hidden keys such as F1-F12, Print Screen, and Delete.
+- Layer 1 contains the missing keys such as F1-F12, Print Screen, and Delete.
 - Layer 2 contains some *menacing* keys such as Reset, Solenoid Controls, and Alt+F4.
