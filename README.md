@@ -5,10 +5,13 @@
   <h6 align="center">Special Keyboard Manufacturing & Restoration Division Ω 1992. No Rights Reserved</h6>
 </p>
 
-## About us...
+<br>
 
-We understand that you had many choices when it came to Custom PCBs. Yes, we are just as surprised as you are!<br>
-At General Bittens Electrics Incorporated, we are passionate about ruining the legacy of mechanical keyboards by putting them on the desks of our future generation!
+<p align="center">
+Custom PCBs offer a world of possibilities, and somehow, you ended up with us – a choice that leaves us utterly bewildered.<br>
+We're not sure what led you here, but hey, we won't question it too much!
+</p>
+
 
 ## Catalogue
 
