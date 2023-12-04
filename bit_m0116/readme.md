@@ -13,10 +13,10 @@
 
 Picture this... It's 1987, and you're an engineer tasked with the crucial job of designing a legendary keyboard for Apple's upcoming **Macintosh SE**. How would you sabotage it for future generations? If you answered "By implementing the worst 2KRO logic known to mankind", you'd be absolutely right! 🎉
 
-So after mere *minutes* in research & design, **Bittens Incorporated** proudly presents to you a drop-in replacement PCB with countless improvements:
+So after mere *minutes* in research & design, **Bittens Incorporated** proudly presents you a drop-in replacement PCB with countless improvements:
 - **NKRO (N-Key Rollover):** How do you do, fellow kids? Y'all like playing video games?
 - **Solenoid Support:** Do you love annoying your loved ones... *and yourself?*
-- **QMK/Vial:** Just plug in your keyboard, and remap your keys in VIAL! ~We know you're too lazy for anything else.~
+- **QMK/Vial:** Just plug in your keyboard, and remap your keys in Vial! ~We know you're too lazy for anything else.~
 - **Multi-layout Compatibility:** We almost forgot about you, M0118 owners. *Almost!*
 
 The PCB is a through-hole kit that requires a Raspberry Pi Pico and some diodes for basic functionality, making it a cheap & easy project to complete!
