@@ -195,7 +195,7 @@ There are six components to install, but you can install them in any order.
 <br>
 
 ✅ Congratulations! You can now configure your solenoid in Vial.
-- The [default keymaps](https://github.com/Bitteneite/bitten_restoboards/tree/main/bit_m0116/keymaps) have all the necessary controls in **Layer 2**.
+- All the necessary Solenoid Controls are located in **Layer 2** with the [default keymaps](https://github.com/Bitteneite/bitten_restoboards/tree/main/bit_m0116/keymaps).
 
 <br>
 
