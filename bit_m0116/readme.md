@@ -213,12 +213,20 @@ At this point, your M0116 PCB is ready to go! However, if you're like to give it
 - The Type-C socket I bought fitted without any modification, but you can still use any socket you like!
 - You'll need to chop up a Type-C cable and wire it up correctly, so basic cable-making knowledge is recommended.
 ## Installation
-<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/socket-example-1.jpg ' width='500'>
-<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/socket-example-2.jpg ' width='500'>
-<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/socket-example-3.jpg ' width='500'>
 
+1. Chop up a Type-C cable, and wire it up correctly:
+	- You're gonna need to use your cable-making knowledge to figure out the pins.
+	- Using heatshrinks can make the job look a lot cleaner.
+<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/socket-example-1.jpg ' width='500'>
+
+2. Secure the socket into the case.
+	- To get some leverage, plug in a Type-C cable, hold down the nut in place, and start rotating the socket by the plugged cable.
+	- While rotating the housing, the individual wires can twist up. Be sure to occasionally un-twist them while rotating the housing!
+<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/socket-example-2.jpg ' width='500'>
 
 ✅ Congratulations! You can now plug in any Type-C cable of your choice.
+
+<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/socket-example-3.jpg ' width='500'>
 
 <br>
 
