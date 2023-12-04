@@ -96,6 +96,7 @@ This section will guide you through the process of assembling your PCB.
 _Be prepared for extensive use of your soldering iron and wire-cutter!_
 
 1. Install the 1N4148 diodes into the PCB:
+	- Direction is important! Follow the symbol on the PCB.
 	- Some diode locations are dedicated only to the M0118 layout! You can safely ignore them.
 	- _Tip: To secure the diode in place before soldering, try bending down the legs on the other side!_
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/assemb-1.jpg ' width='500'>
@@ -143,28 +144,43 @@ There are six components to install, but you can install them in any order.
 
 ## Installation
 TIP120:
+- Bend the 3 protruding pins into a 90° angle **before** installation.
+<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/sol_mosfet.png ' width='350'>
 
-<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/sol_mosfet.png ' width='250'>
+<br>
 
 2.2uF — 4.7 uF Capacitor:
+- Ensure you install it correctly. Follow the symbol on the PCB.
+- **WARNING:** Incorrect installation could make things go explodey!
+<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/sol_capacitor.png ' width='350'>
 
-<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/sol_capacitor.png ' width='250'>
+<br>
 
 1k — 10k Ω Resistor:
+- Same trick with the diodes. Bend the legs down on the other side to secure it before soldering!
+<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/sol_resistor.png ' width='350'>
 
-<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/sol_resistor.png ' width='250'>
+<br>
 
 DO-35 Diode:
+- Direction is important! Follow the symbol on the PCB.
+<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/sol_diode.png ' width='350'>
 
-<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/sol_diode.png ' width='250'>
+<br>
 
 Male Pin Headers:
+- Alternatively, you can use a JST connector or similar.
+- You could solder the solenoid into the pins directly, but this is not recommended.
+<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/sol_pin_header.png ' width='350'>
 
-<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/sol_pin_header.png ' width='250'>
+<br>
 
 Solenoid Headers:
+- Same points apply as above.
+- Direction doesn't matter. You can reverse the pins and the solenoid will still work.
+<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/sol_header.jpg ' width='350'>
 
-<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/sol_header.jpg ' width='250'>
+<br>
 
 ✅ Congratulations! You can now configure your solenoid in Vial.
 
