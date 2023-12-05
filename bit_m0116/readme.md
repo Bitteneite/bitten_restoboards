@@ -57,15 +57,15 @@ In this chapter, we'll cover the bare minimum to get this PCB up and running. _N
 
 ### Prerequisites
 
-|	Q		|	Item		|	Description		|	Importance		|	Example											|
-|	------------	|----			|	------------		|	------------		|	------------										|
-|	x1		|	Controller	|	RP2040			|	*Mandatory*		|	[Raspberry Pi Pico](https://www.aliexpress.com/item/1005003928558306.html)		|
-|	x81		|	Diodes		|	DO-35			|	*Mandatory*		|	[1N4148](https://www.aliexpress.com/item/4001126137167.html)				|
-|	x40 		|	Pin Headers	|	—			|	Optional		|	[40x Top bending DW](https://www.aliexpress.com/item/4000660389713.html)		|
+|	Q		|	Item			|	Description		|	Importance		|	Example											|
+|	------------	|----				|	------------		|	------------		|	------------										|
+|	x1		|	Controller		|	RP2040			|	*Mandatory*		|	[Raspberry Pi Pico](https://www.aliexpress.com/item/1005003928558306.html)		|
+|	x81		|	Diodes			|	DO-35			|	*Mandatory*		|	[1N4148](https://www.aliexpress.com/item/4001126137167.html)				|
+|	x40 		|	Bent Pin Headers	|	—			|	Optional		|	[40x Top bending DW](https://www.aliexpress.com/item/4000660389713.html)		|
 
 
 - [Vial](https://get.vial.today/) will be required for verification. Please ensure that it's installed and running correctly.
-- M0118 keyboards use an ISO layout, which will need 84 diodes instead. Their location on the PCB is denoted by a symbol.
+- M0118 keyboards use an ISO layout, which will need 84 diodes instead. Their locations are denoted by a symbol on the PCB.
 - The bent Pin Headers listed above will make assembly easier, but the [Straight Pin Headers](https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/assemb-straight-header.jpg) included with your Raspberry Pi Pico can still work.
 - A decent soldering iron and a pair of sharp wire-cutters are recommended!
 
@@ -141,14 +141,14 @@ There are six components to install, but you can install them in any order.
 
 ### Prerequisites
 
-|	Q		|	Item		|	Description		|	Importance		|	Example									|
-|	------------	|----			|	------------		|	------------		|	------------								|
-|	x1 		|	MOSFET		|	TIP120			|	*Mandatory*		|	[Link](https://www.aliexpress.com/item/1005006131704396.html)		|
-|	x1		|	Diode		|	DO-35			|	*Mandatory*		|	[1N4148](https://www.aliexpress.com/item/4001126137167.html)		|
-|	x1 		|	Capacitor 	|	2.2 — 4.7uF		|	Recommended		|	[Link](https://www.aliexpress.com/item/4000822340335.html)		|
-|	x1 		|	Resistor	|	1k — 10k Ω		|	Recommended		|	[Link](https://www.aliexpress.com/item/32660635741.html)		|
-|	x2 		|	Pin Header	|	—			|	Optional		|	[40x Top bending DW](https://www.aliexpress.com/item/4000660389713.html)|
-|	x2 		|	Jumper Cable	|	Female End		|	Optional		|	[Link](https://www.aliexpress.com/item/1005006050213130.html)		|
+|	Q		|	Item			|	Description		|	Importance		|	Example									|
+|	------------	|----				|	------------		|	------------		|	------------								|
+|	x1 		|	MOSFET			|	TIP120			|	*Mandatory*		|	[Link](https://www.aliexpress.com/item/1005006131704396.html)		|
+|	x1		|	Diode			|	DO-35			|	*Mandatory*		|	[1N4148](https://www.aliexpress.com/item/4001126137167.html)		|
+|	x1 		|	Capacitor 		|	2.2 — 4.7uF		|	Recommended		|	[Link](https://www.aliexpress.com/item/4000822340335.html)		|
+|	x1 		|	Resistor		|	1k — 10k Ω		|	Recommended		|	[Link](https://www.aliexpress.com/item/32660635741.html)		|
+|	x2 		|	Bent Pin Headers	|	—			|	Optional		|	[40x Top bending DW](https://www.aliexpress.com/item/4000660389713.html)|
+|	x2 		|	Jumper Cable		|	Female End		|	Optional		|	[Link](https://www.aliexpress.com/item/1005006050213130.html)		|
 
 
 - [Vial](https://get.vial.today/) will be required for configuration. Please ensure that it's installed and running correctly.
@@ -208,7 +208,7 @@ At this point, your M0116 PCB is ready to go! However, if you're like to give it
 
 |	Q		|	Item		|	Description		|	Importance		|	Example											|
 |	------------	|----			|	------------		|	------------		|	------------										|
-|	x1 		|	Type-C Socket	|	Cable Port		|	*Mandatory*		|	[4-Pin](https://www.aliexpress.com/item/1005005565293821.html)				|
+|	x1 		|	Type-C Socket	|	Detachable Cable Port	|	*Mandatory*		|	[4-Pin](https://www.aliexpress.com/item/1005005565293821.html)				|
 |	x1 		|	Type-C Cable	|	Any old cable		|	Optional		|	—											|
 
 - The Type-C socket I bought fitted without any modification, but you can still use any socket you like!
