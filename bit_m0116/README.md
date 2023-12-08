@@ -78,7 +78,7 @@ This section will cover how you can easily flash your RP2040-based controller. M
 	- Press the **BOOT** and **RST** buttons simultaneously.
 <img src='https://github.com/Bitteneite/bitten_restoboards/blob/main/photos/prep-1.jpg ' width='500'>
 
-4. A new device should be connected to your computer. Open the device directory:
+4. A new device should now be connected to your computer. Open the device directory:
 <img src='https://github.com/Bitteneite/bitten_restoboards/blob/main/photos/prep-2.jpg ' width='750'>
 
 5. Drag the .uf2 file into your newly connected device:
