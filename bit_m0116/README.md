@@ -135,8 +135,7 @@ _Be prepared for extensive use of your soldering iron and wire-cutter!_
 
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/sol_preview.jpg ' width='1000'>
 
-This chapter will guide you through the process of installing all the components needed for a solenoid!
-There are six components to install, but you can install them in any order.
+This chapter will guide you through the process of installing all the components needed for a solenoid! *Let's annoy the entire house!*
 
 ### Prerequisites
 
@@ -155,6 +154,8 @@ There are six components to install, but you can install them in any order.
 - You can solder the solenoid into the PCB directly without the Pin Headers, but this is not recommended.
 
 ## Installation
+There are 6 independent components to install, but you can install them in any order!
+
 ### TIP120
 - Before installation, bend the 3 protruding pins into a 90° angle.
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/sol_mosfet.png ' width='350'>
@@ -231,7 +232,8 @@ At this point, your M0116 PCB is ready to go! However, if you're like to give it
 <br>
 
 # My Build
-(Video here)
+(Video without solenoid here, soon™)
+(Video with solenoid here, soon™)
 
 Modifications:
 - Click-modded with leafs from SKCM Whites.
