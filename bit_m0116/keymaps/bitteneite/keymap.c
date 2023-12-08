@@ -18,8 +18,8 @@
 ╚══════════════════════════════════════════════════════════════════════════════════════════╝
 
 ├─────────  ◒ General Bittens Electrics Incorporated © 1992. No Rights Reserved  ──────────┤
-*/
 
+*/
 #include QMK_KEYBOARD_H
 
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
