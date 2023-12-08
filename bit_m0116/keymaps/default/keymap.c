@@ -1,18 +1,36 @@
-// Copyright 2023 QMK
-// SPDX-License-Identifier: GPL-2.0-or-later
+/*
+                                ▓▒░ M0116 Default Keymap ░▒▓
+╔══════════════════════════════════════════════════════════════════════════════════════════╗
+║                         ┌───────┐                                                        ║
+║                         │       │                                                        ║
+║                         └───────┘                                                        ║
+║     ┌───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬─────┐    ┌───┬───┬───┬───┐     ║
+║     │   │ 1 │ 2 │ 3 │ 4 │ 5 │ 6 │ 7 │ 8 │ 9 │ 0 │ - │ + │     │    │Num│ = │ / │ * │     ║
+║     ├───┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬───┤    ├───┼───┼───┼───┤     ║
+║     │     │ Q │ W │ E │ R │ T │ Y │ U │ I │ O │ P │ [ │ ] │   │    │ 7 │ 8 │ 9 │ + │     ║
+║     ├─────┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┘   │    ├───┼───┼───┼───┤     ║
+║     │      │ A │ S │ D │ F │ G │ H │ J │ K │ L │ ; │ ' │      │    │ 4 │ 5 │ 6 │ - │     ║
+║     ├──────┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴──────┤    ├───┼───┼───┼───┤     ║
+║     │        │ Z │ X │ C │ V │ B │ N │ M │ , │ . │ / │        │    │ 1 │ 2 │ 3 │   │     ║
+║     ├───┬───┬┴───┴─┬─┴─┬─┴───┴───┴───┴───┴┬──┴┬──┴┬──┴┬───┬───┤    ├───┴───┼───┤   │     ║
+║     │   │   │      │   │                  │   │   │   │   │   │    │   0   │ . │   │     ║
+║     └───┴───┴──────┴───┴──────────────────┴───┴───┴───┴───┴───┘    └───────┴───┴───┘     ║
+╚══════════════════════════════════════════════════════════════════════════════════════════╝
+
+├─────────  ◒ General Bittens Electrics Incorporated © 1992. No Rights Reserved  ──────────┤
+*/
 
 #include QMK_KEYBOARD_H
 
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 
-	/*
-	*
-	*/
-
+	// Base Layer: The basic stuff... duh!
 	[0] = LAYOUT_m0116(
-	
+
+		// Row 0
 		OSL(2),
 		
+		// Row 1
 		KC_ESCAPE,
 		KC_1,
 		KC_2,
@@ -32,6 +50,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 		KC_KP_SLASH,
 		KC_KP_ASTERISK,
 		
+		// Row 2
 		KC_TAB,
 		KC_Q,
 		KC_W,
@@ -51,6 +70,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 		KC_KP_9,
 		KC_KP_PLUS,
 		
+		// Row 3
 		KC_LCTL,
 		KC_A,
 		KC_S,
@@ -69,6 +89,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 		KC_KP_6,
 		KC_KP_MINUS,
 		
+		// Row 4
 		KC_LSFT,
 		KC_NO,
 		KC_Z,
@@ -88,6 +109,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 		KC_KP_3,
 		KC_KP_ENTER,
 		
+		// Row 5
 		MO(1),
 		KC_LGUI,
 		KC_LALT,
@@ -104,10 +126,13 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 		KC_KP_DOT
 	),
 	
+	// Layer 1: The missing stuff. 40% Enjoyers love those!
 	[1] = LAYOUT_m0116(
 	
+		// Row 0
 		KC_PSCREEN,
 		
+		// Row 1
 		KC_GRAVE,
 		KC_F1,
 		KC_F2,
@@ -127,6 +152,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 		KC_TRNS,
 		KC_TRNS,
 		
+		// Row 2
 		KC_TRNS,
 		KC_TRNS,
 		KC_TRNS,
@@ -146,6 +172,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 		KC_TRNS,
 		KC_TRNS,
 		
+		// Row 3
 		KC_TRNS,
 		KC_TRNS,
 		KC_TRNS,
@@ -164,6 +191,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 		KC_TRNS,
 		KC_TRNS,
 		
+		// Row 4
 		KC_TRNS,
 		KC_NO,
 		KC_TRNS,
@@ -183,6 +211,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 		KC_TRNS,
 		KC_TRNS,
 		
+		// Row 5
 		KC_TRNS,
 		KC_TRNS,
 		KC_TRNS,
@@ -199,10 +228,13 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 		KC_TRNS
 	),
 	
+	// Layer 2: The scary basement. No one comes down here often!
 	[2] = LAYOUT_m0116(
 	
+		// Row 0
 		LALT(KC_F4),
 		
+		// Row 1
 		QK_BOOTLOADER,
 		KC_TRNS,
 		KC_TRNS,
@@ -222,6 +254,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 		KC_TRNS,
 		HPT_FBK,
 		
+		// Row 2
 		KC_TRNS,
 		KC_TRNS,
 		KC_TRNS,
@@ -241,6 +274,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 		KC_TRNS,
 		HPT_DWLI,
 		
+		// Row 3
 		KC_TRNS,
 		KC_TRNS,
 		KC_TRNS,
@@ -259,6 +293,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 		KC_TRNS,
 		HPT_DWLD,
 		
+		// Row 4
 		KC_TRNS,
 		KC_NO,
 		KC_TRNS,
@@ -278,6 +313,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 		KC_TRNS,
 		HPT_TOG,
 		
+		// Row 5
 		KC_TRNS,
 		KC_TRNS,
 		KC_TRNS,
