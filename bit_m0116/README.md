@@ -66,7 +66,7 @@ In this chapter, we'll cover the bare minimum to get this PCB up and running. _N
 
 - [Vial](https://get.vial.today/) will be required for verification. Please ensure that it's installed and running correctly.
 - M0118 keyboards use an ISO layout, which will need 84 diodes instead. Their locations are denoted by a symbol on the PCB.
-- The bent Pin Headers listed above will make assembly easier, but the [Straight Pin Headers](https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/assemb-straight-header.jpg) included with your Raspberry Pi Pico can still work.
+- The Bent Pin Headers listed above will make assembly easier, but the [Straight Pin Headers](https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/assemb-straight-header.jpg) included with your Raspberry Pi Pico can still work.
 - A decent soldering iron and a pair of sharp wire-cutters are recommended!
 
 ## Flashing
