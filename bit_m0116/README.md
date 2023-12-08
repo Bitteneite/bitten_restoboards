@@ -61,7 +61,7 @@ In this chapter, we'll cover the bare minimum to get this PCB up and running. _N
 |	------------	|----				|	------------		|	------------		|	------------										|
 |	x1		|	Controller		|	RP2040			|	*Mandatory*		|	[Raspberry Pi Pico](https://www.aliexpress.com/item/1005003928558306.html)		|
 |	x81		|	Diodes			|	DO-35			|	*Mandatory*		|	[1N4148](https://www.aliexpress.com/item/4001126137167.html)				|
-|	x40 		|	Bent Pin Headers	|	—			|	Optional		|	[40x Top bending DW](https://www.aliexpress.com/item/4000660389713.html)		|
+|	x40 		|	Bent Pin Headers	|	—			|	Recommended		|	[40x Top bending DW](https://www.aliexpress.com/item/4000660389713.html)		|
 
 
 - [Vial](https://get.vial.today/) will be required for verification. Please ensure that it's installed and running correctly.
@@ -78,7 +78,7 @@ This section will cover how you can easily flash your RP2040-based controller. M
 	- Press the **BOOT** and **RST** buttons simultaneously.
 <img src='https://github.com/Bitteneite/bitten_restoboards/blob/main/photos/prep-1.jpg ' width='500'>
 
-4. A new device should be connected to your computer. Open the device directory:
+4. A new device should now be connected to your computer. Open the device directory:
 <img src='https://github.com/Bitteneite/bitten_restoboards/blob/main/photos/prep-2.jpg ' width='750'>
 
 5. Drag the .uf2 file into your newly connected device:
