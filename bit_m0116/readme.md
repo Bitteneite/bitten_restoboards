@@ -75,19 +75,19 @@ This section will cover how you can easily flash your RP2040-based controller. M
 1. Get the .uf2 firmware file: [Visit the Releases page to download the latest version.](https://github.com/Bitteneite/bitten_restoboards/releases/tag/m0116-v2.0.0)
 
 3. Set your Raspberry Pi Pico into Bootloader:
-	- Press the BOOT and RST buttons simultaneously.
+	- Press the **BOOT** and **RST** buttons simultaneously.
 <img src='https://github.com/Bitteneite/bitten_restoboards/blob/main/photos/prep-1.jpg ' width='500'>
 
 4. A new device should be connected to your computer. Open the device directory:
 <img src='https://github.com/Bitteneite/bitten_restoboards/blob/main/photos/prep-2.jpg ' width='750'>
 
 5. Drag the .uf2 file into your newly connected device:
-	- Your RP2040 controller should reboot in a second.
+	- Your RP2040 controller should **reboot** in a second.
 <img src='https://github.com/Bitteneite/bitten_restoboards/blob/main/photos/prep-3.jpg ' width='750'>
 
 <br>
 
-✅ If you've done everything correctly, Vial should now recognize your RP2040 controller as an M0116 keyboard!
+✅ If you've done everything correctly, **Vial** should now recognize your RP2040 controller as an M0116 keyboard!
 
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/vial_preview.png ' width='750'>
 
@@ -123,7 +123,6 @@ _Be prepared for extensive use of your soldering iron and wire-cutter!_
 
 5. Once verified, snip off the protruding pins for a cleaner look:
 	- If you're using the [Bent Pin Headers](https://www.aliexpress.com/item/4000660389713.html) mentioned previously, snip off at the "bend".
-	- If you're using the [Straight Pin Headers](https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/assemb-straight-header.jpg) included with your Raspberry Pi Pico, snip off the leg as much as you can.
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
 
 <br>
@@ -157,7 +156,7 @@ There are six components to install, but you can install them in any order.
 
 ## Installation
 ### TIP120
-- Bend the 3 protruding pins into a 90° angle **before** installation.
+- Before installation, bend the 3 protruding pins into a 90° angle.
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/sol_mosfet.png ' width='350'>
 
 <br>
@@ -183,13 +182,13 @@ There are six components to install, but you can install them in any order.
 
 ### Male Pin Headers
 - Alternatively, you can use a JST connector or similar.
-- You could solder the solenoid into the pins directly, but this is not recommended.
+- You could solder the solenoid into the pins directly, **but this is not recommended.**
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/sol_pin_header.png ' width='350'>
 
 <br>
 
 ### Solenoid Headers
-- Same points apply as above.
+- Same points apply as <a href="#male-pin-headers">previously mentioned.</a>
 - Direction doesn't matter. You can reverse the pins and the solenoid will still work.
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/sol_header.jpg ' width='350'>
 
@@ -211,11 +210,11 @@ At this point, your M0116 PCB is ready to go! However, if you're like to give it
 |	x1 		|	Type-C Socket	|	Detachable Cable Port	|	*Mandatory*		|	[4-Pin](https://www.aliexpress.com/item/1005005565293821.html)				|
 |	x1 		|	Type-C Cable	|	Any old cable		|	Optional		|	—											|
 
-- The Type-C socket I bought fitted without any modification, but you can still use any socket you like!
+- The Type-C socket linked above can fit without any modification, but you can still use any socket you like!
 - You'll need to chop up a Type-C cable and wire it up correctly, so basic cable-making knowledge is recommended.
 ## Installation
 
-1. Chop up a Type-C cable, and wire it up correctly:
+1. Chop up a Type-C cable, and wire it up correctly to the socket:
 	- You're gonna need to use your cable-making knowledge to figure out the pins.
 	- Using heatshrinks can make the job look a lot cleaner.
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/socket-example-1.jpg ' width='500'>
