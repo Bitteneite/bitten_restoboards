@@ -61,7 +61,7 @@ In this chapter, we'll cover the bare minimum to get this PCB up and running. _N
 |	------------	|----				|	------------		|	------------		|	------------										|
 |	x1		|	Controller		|	RP2040			|	*Mandatory*		|	[Raspberry Pi Pico](https://www.aliexpress.com/item/1005003928558306.html)		|
 |	x81		|	Diodes			|	DO-35			|	*Mandatory*		|	[1N4148](https://www.aliexpress.com/item/4001126137167.html)				|
-|	x40 		|	Bent Pin Headers	|	—			|	Optional		|	[40x Top bending DW](https://www.aliexpress.com/item/4000660389713.html)		|
+|	x40 		|	Bent Pin Headers	|	—			|	Recommended		|	[40x Top bending DW](https://www.aliexpress.com/item/4000660389713.html)		|
 
 
 - [Vial](https://get.vial.today/) will be required for verification. Please ensure that it's installed and running correctly.
