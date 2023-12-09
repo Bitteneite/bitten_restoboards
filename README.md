@@ -25,7 +25,6 @@ Custom PCBs offer a world of possibilities, and somehow, you ended up with us â€
 
 ðŸ‘¤ **Abdullah Al-Marzouqi**
 
-- Github: https://github.com/Bitteneite
 - Discord: @BittenEite
 - Instagram: [@bitteneite](https://www.instagram.com/bitteneite/)
 

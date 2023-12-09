@@ -232,7 +232,7 @@ At this point, your M0116 PCB is ready to go! However, if you're like to give it
 <br>
 
 # My Build
-(Video without solenoid here, soon™)
+(Video without solenoid here, soon™)<br>
 (Video with solenoid here, soon™)
 
 Modifications:
@@ -247,7 +247,6 @@ Modifications:
 
 👤 **Abdullah Al-Marzouqi**
 
-- Github: https://github.com/Bitteneite
 - Discord: @BittenEite
 - Instagram: [@bitteneite](https://www.instagram.com/bitteneite/)
 
