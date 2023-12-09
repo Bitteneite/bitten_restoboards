@@ -95,7 +95,7 @@ This section will cover how you can easily flash your RP2040-based controller. M
 This section will guide you through the process of assembling your PCB. 
 _Be prepared for extensive use of your soldering iron and wire-cutter!_
 
-1. Install the 1N4148 diodes into the PCB:
+1. Solder the **1N4148** diodes into the PCB:
 	- **Direction is important!** Follow the symbol on the PCB.
 	- Some diode locations are dedicated only to the M0118 layout!
 	- _Tip: To secure the diode in place before soldering, try bending down the legs on the other side!_
@@ -118,10 +118,10 @@ _Be prepared for extensive use of your soldering iron and wire-cutter!_
 	- Open **Vial** and check the "Matrix Tester" tab.
 	- Short each switch manually using a pair of tweezers. The key should light up in Vial.
 	- If a switch doesn't trigger, check the solder joint on the nearby **diode**.
-	- If an entire row/column doesn't trigger, check the solder joint on the **RP2040 Controller**.
+	- If an entire row/column doesn't trigger, check the associated solder joint on the **RP2040 Controller**.
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
 
-5. Once verified, snip off the protruding pins for a cleaner look:
+5. **(Optional)** Snip off the protruding pins for a cleaner look:
 	- If you're using the [Bent Pin Headers](https://www.aliexpress.com/item/4000660389713.html) mentioned previously, snip off at the "bend".
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
 
