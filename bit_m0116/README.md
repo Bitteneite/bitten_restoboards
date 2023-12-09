@@ -9,7 +9,7 @@
 
 <br>
 
-<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/m0116-built.jpg ' width='1000'>
+<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/bit_m0116/m0116-built.jpg ' width='1000'>
 
 Picture this... It's 1987, and you're an engineer tasked with the crucial job of designing a legendary keyboard for Apple's upcoming **Macintosh SE**. How would you sabotage it for future generations? If you answered "By implementing the worst 2KRO logic known to mankind", you'd be absolutely right! 🎉
 
@@ -51,7 +51,7 @@ The PCB is a through-hole kit that requires a Raspberry Pi Pico and some diodes 
 
 # Assembling
 
-<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/assemb_preview.jpg ' width='1000'>
+<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/bit_m0116/assemb_preview.jpg ' width='1000'>
 
 In this chapter, we'll cover the bare minimum to get this PCB up and running. _No frills, no thrills!_
 
@@ -89,7 +89,7 @@ This section will cover how you can easily flash your RP2040-based controller. M
 
 ✅ If you've done everything correctly, **Vial** should now recognize your RP2040 controller as an M0116 keyboard!
 
-<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/vial_preview.png ' width='750'>
+<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/bit_m0116/vial_preview.png ' width='750'>
 
 ## Installation
 This section will guide you through the process of assembling your PCB. 
@@ -99,7 +99,7 @@ _Be prepared for extensive use of your soldering iron and wire-cutter!_
 	- **Direction is important!** Follow the symbol on the PCB.
 	- Some diode locations are dedicated only to the M0118 layout!
 	- _Tip: To secure the diode in place before soldering, try bending down the legs on the other side!_
-<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/assemb-1.jpg ' width='500'>
+<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/bit_m0116/assemb-1.jpg ' width='500'>
 
 2. Install the Pin Headers onto your RP2040 controller the "incorrect" way:
 	- Insert the Pin Headers from the top, rather then from the bottom.
@@ -133,7 +133,7 @@ _Be prepared for extensive use of your soldering iron and wire-cutter!_
 
 # Solenoid (Optional)
 
-<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/sol_preview.jpg ' width='1000'>
+<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/bit_m0116/sol_preview.jpg ' width='1000'>
 
 This chapter will guide you through the process of installing all the components needed for a solenoid! *Let's annoy the entire house!*
 
@@ -158,40 +158,40 @@ There are 6 independent components to install, but you can install them in any o
 
 ### TIP120
 - Before installation, bend the 3 protruding pins into a 90° angle.
-<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/sol_mosfet.png ' width='350'>
+<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/bit_m0116/sol_mosfet.png ' width='350'>
 
 <br>
 
 ### 2.2uF — 4.7 uF Capacitor
 - Ensure you install it correctly. Follow the symbol on the PCB.
 - **WARNING:** Incorrect installation could make things go explodey!
-<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/sol_capacitor.png ' width='350'>
+<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/bit_m0116/sol_capacitor.png ' width='350'>
 
 <br>
 
 ### 1k — 10k Ω Resistor
 - Same trick with the diodes. Bend the legs down on the other side to secure it before soldering!
-<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/sol_resistor.png ' width='350'>
+<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/bit_m0116/sol_resistor.png ' width='350'>
 
 <br>
 
 ### DO-35 Diode
 - **Direction is important!** Follow the symbol on the PCB.
-<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/sol_diode.png ' width='350'>
+<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/bit_m0116/sol_diode.png ' width='350'>
 
 <br>
 
 ### Male Pin Headers
 - Alternatively, you can use a JST connector or similar.
 - You could solder the solenoid into the pins directly, **but this is not recommended.**
-<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/sol_pin_header.png ' width='350'>
+<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/bit_m0116/sol_pin_header.png ' width='350'>
 
 <br>
 
 ### Solenoid Headers
 - Same points apply as <a href="#male-pin-headers">previously mentioned.</a>
 - Direction doesn't matter. You can reverse the pins and the solenoid will still work.
-<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/sol_header.jpg ' width='350'>
+<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/bit_m0116/sol_header.jpg ' width='350'>
 
 <br>
 
@@ -201,7 +201,7 @@ There are 6 independent components to install, but you can install them in any o
 <br>
 
 # Detachable Cable (Optional)
-<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/socket-preview.jpg ' width='1000'>
+<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/bit_m0116/socket-preview.jpg ' width='1000'>
 At this point, your M0116 PCB is ready to go! However, if you're like to give it that finishing touch, you should wire up a custom connector!
 
 ### Prerequisites
@@ -218,16 +218,16 @@ At this point, your M0116 PCB is ready to go! However, if you're like to give it
 1. Chop up a Type-C cable, and wire it up correctly to the socket:
 	- You're gonna need to use your cable-making knowledge to figure out the pins.
 	- Using heatshrinks can make the job look a lot cleaner.
-<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/socket-example-1.jpg ' width='500'>
+<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/bit_m0116/socket-example-1.jpg ' width='500'>
 
 2. Secure the socket into the case.
 	- To get some leverage, plug in a Type-C cable, hold down the nut in place, and start rotating the socket by the plugged cable.
 	- While rotating the housing, the individual wires can twist up. Be sure to occasionally un-twist them while rotating the housing!
-<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/socket-example-2.jpg ' width='500'>
+<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/bit_m0116/socket-example-2.jpg ' width='500'>
 
 ✅ Congratulations! You can now plug in any Type-C cable of your choice.
 
-<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/socket-example-3.jpg ' width='500'>
+<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/bit_m0116/socket-example-3.jpg ' width='500'>
 
 <br>
 

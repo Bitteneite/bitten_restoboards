@@ -1,4 +1,4 @@
-<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/bit_m0116/photos/vial_preview.png ' width='1000'>
+<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/bit_m0116/vial_preview.png ' width='1000'>
 
 ## Keymaps
 |	Name		        |	Description                                   |
