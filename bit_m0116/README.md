@@ -142,7 +142,7 @@ This chapter will guide you through the process of installing all the components
 
 |	Q		|	Item			|	Description		|	Importance		|	Example									|
 |	------------	|----				|	------------		|	------------		|	------------								|
-|	x1 		|	Solenoid		|	Any 5V Solenoid		|	*Mandatory*		|	[Example](https://www.aliexpress.com/item/1005002278950915.html)		|
+|	x1 		|	Solenoid		|	Any 5V Solenoid		|	*Mandatory*		|	[Link](https://www.aliexpress.com/item/1005002278950915.html)		|
 |	x1 		|	MOSFET			|	TIP120			|	*Mandatory*		|	[Link](https://www.aliexpress.com/item/1005006131704396.html)		|
 |	x1		|	Diode			|	DO-35			|	*Mandatory*		|	[1N4148](https://www.aliexpress.com/item/4001126137167.html)		|
 |	x1 		|	Capacitor 		|	2.2 — 4.7uF		|	Recommended		|	[Link](https://www.aliexpress.com/item/4000822340335.html)		|
