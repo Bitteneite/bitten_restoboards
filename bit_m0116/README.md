@@ -153,7 +153,7 @@ This chapter will guide you through the process of installing all the components
 
 
 - [Vial](https://get.vial.today/) will be required for configuration. Please ensure that it's installed and running correctly.
-- You _could_ power the solenoid without the Capacitor and Resistor, but over time, you might **potentially damage the RP2040 controller and/or USB Port on your Motherboard.**
+- You _could_ power the solenoid without the Capacitor and Resistor, but over time, you might **potentially damage the RP2040 controller and/or the USB Port on your Motherboard.**
 - You can solder the solenoid into the PCB directly without the Pin Headers, but this is not recommended.
 
 ## Installation
