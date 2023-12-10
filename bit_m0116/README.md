@@ -146,12 +146,13 @@ This chapter will guide you through the process of installing all the components
 |	x1		|	Diode			|	DO-35			|	*Mandatory*		|	[1N4148](https://www.aliexpress.com/item/4001126137167.html)		|
 |	x1 		|	Capacitor 		|	2.2 — 4.7uF		|	Recommended		|	[Link](https://www.aliexpress.com/item/4000822340335.html)		|
 |	x1 		|	Resistor		|	1k — 10k Ω		|	Recommended		|	[Link](https://www.aliexpress.com/item/32660635741.html)		|
+|	x1 		|	Solenoid		|	Any 5V Solenoid		|	Recommended		|	[Example](https://www.aliexpress.com/item/1005002278950915.html)		|
 |	x2 		|	Bent Pin Headers	|	—			|	Optional		|	[40x Top bending DW](https://www.aliexpress.com/item/4000660389713.html)|
 |	x2 		|	Jumper Cable		|	Female End		|	Optional		|	[Link](https://www.aliexpress.com/item/1005006050213130.html)		|
 
 
 - [Vial](https://get.vial.today/) will be required for configuration. Please ensure that it's installed and running correctly.
-- You _could_ power the solenoid without the Capacitor and Resistor, but it will be **much less reliable.**
+- You _could_ power the solenoid without the Capacitor and Resistor, but over time, this can **potentially damage your RP2040 controller and/or USB Port on your Motherboard.**
 - You can solder the solenoid into the PCB directly without the Pin Headers, but this is not recommended.
 
 ## Installation
