@@ -35,7 +35,7 @@ The PCB is a through-hole kit that requires a Raspberry Pi Pico and some diodes 
       <a href="#solenoid-optional">Solenoid</a> (Optional)
       <ul>
         <li><a href="#prerequisites-1">Prerequisites</a></li>
-        <li><a href="#installation-1">Installation</a></li>
+        <li><a href="#pcb-installation">PCB Installation</a></li>
         <li><a href="#solenoid-placement">Solenoid Placement</a></li>
       </ul>
     </li>
@@ -156,7 +156,7 @@ This chapter will guide you through the process of installing all the components
 - You _could_ power the solenoid without the Capacitor and Resistor, but over time, you might **potentially damage the RP2040 controller and/or the USB Port on your Motherboard!**
 - You can solder the solenoid into the PCB directly without the Pin Headers, **but this is not recommended.**
 
-## Installation
+## PCB Installation
 There are 6 independent components to install, but you can install them in any order!
 
 ### TIP120
