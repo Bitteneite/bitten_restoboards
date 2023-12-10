@@ -183,15 +183,15 @@ There are 6 independent components to install, but you can install them in any o
 <br>
 
 ### Male Pin Headers
-- Alternatively, you can use a JST connector or similar.
-- You could solder the solenoid into the pins directly, **but this is not recommended.**
+- We need to connect our solenoid in a **detachable** manner. 
+- Any connector would work (ex. JST Plug Connectors), but we can re-use our [Bent Pin Headers](https://www.aliexpress.com/item/4000660389713.html).
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/bit_m0116/sol_pin_header.png ' width='350'>
 
 <br>
 
 ### Solenoid Headers
 - Same points apply as <a href="#male-pin-headers">previously mentioned.</a>
-- Direction doesn't matter. You can reverse the pins and the solenoid will still work.
+- Direction doesn't matter. You can reverse the pins and the solenoid should still work.
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/bit_m0116/sol_header.jpg ' width='350'>
 
 <br>
