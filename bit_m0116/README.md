@@ -110,7 +110,7 @@ _Be prepared for extensive use of your soldering iron and wire-cutter!_
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/assemb-2a.gif ' width='500'>
 
 3. Solder your RP2040 controller onto the PCB:
-	- If done correctly, the RP2040 controller should "seat" in all the way.
+	- Before soldering, the RP2040 controller must "seat" in all the way.
 	- **Note:** If you're using the [Straight Pin Headers](https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/assemb-straight-header.jpg) included with your Raspberry Pi Pico, and the controller doesn't "seat" in all the way, go back to Step 2 and suck out any solder left on the protruding legs.
 	- Proceed to solder all the pins.
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
