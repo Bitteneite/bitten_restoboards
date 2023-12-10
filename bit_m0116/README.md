@@ -103,7 +103,7 @@ _Be prepared for extensive use of your soldering iron and wire-cutter!_
 
 2. Install the Pin Headers onto your RP2040 controller the "incorrect" way:
 	- Insert the Pin Headers from the top, rather then from the bottom.
-	- This will minimize the height final of your RP2040 controller and avoid clearance issues.
+	- This will minimize the final height of your RP2040 controller and avoid clearance issues.
 	- **Note 1:** If you're using the [Bent Pin Headers](https://www.aliexpress.com/item/4000660389713.html) mentioned previously, you will **not** need to solder it in.
 	- **Note 2:** If you're using the [Straight Pin Headers](https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/assemb-straight-header.jpg) included with your Raspberry Pi Pico, solder it in, but **keep the solder to a minimum!** (The protruding legs need to be as thin as possible!)
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
