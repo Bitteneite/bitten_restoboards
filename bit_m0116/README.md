@@ -36,6 +36,7 @@ The PCB is a through-hole kit that requires a Raspberry Pi Pico and some diodes 
       <ul>
         <li><a href="#prerequisites-1">Prerequisites</a></li>
         <li><a href="#installation-1">Installation</a></li>
+        <li><a href="#solenoid-placement">Solenoid Placement</a></li>
       </ul>
     </li>
     <li>
@@ -199,6 +200,35 @@ There are 6 independent components to install, but you can install them in any o
 
 ✅ Congratulations! You can now configure your solenoid in Vial.
 - All the necessary Solenoid Controls are located in **Layer 2** with the [default keymaps](https://github.com/Bitteneite/bitten_restoboards/tree/main/bit_m0116/keymaps).
+
+<br>
+
+## Solenoid Placement
+
+Here is where you can get creative! You can now place your 5V solenoid's anywhere inside the M0116 case. Here an example of how I did mine:
+
+1. Place a piece of masking tape on the surface of where you'll mount your solenoid:
+	- This will protect the surface on your M0116 case.
+	- In case you wanna remove the solenoid, the tape should serve as a nice way to peel it off.
+<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/bit_m0116/sol_assemb_1.jpg ' width='500'>
+
+2. (Optional) Cover the solenoid's Striking Surface:
+	- I've glued a silicone phone case to deepen the pitch.
+	- Experiment away! Different materials give off different sounds!
+<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/bit_m0116/sol_assemb_2.jpg ' width='500'>
+
+3. Put a dab of hot glue on your solenoid's mounting location:
+	- As cursed as it may seem, hot glue is actually very easy to remove once it hardens! (Bless Garf)
+<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/bit_m0116/sol_assemb_3.jpg ' width='500'>
+
+4. Stick your solenoid on:
+	- I've stuck my solenoid in reverse, which allows the rod to strike *on return.*
+	- This particular setup allows you to fine-tune how loud your solenoid is, at the cost of having a "rattlier" sound signature.
+<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/bit_m0116/sol_assemb_4.jpg ' width='500'>
+
+<br>
+
+✅ Wreak havoc! Get out there and blast some ears off!
 
 <br>
 
