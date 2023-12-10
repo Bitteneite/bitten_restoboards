@@ -158,7 +158,7 @@ This chapter will guide you through the process of installing all the components
 There are 6 independent components to install, but you can install them in any order!
 
 ### TIP120
-- Before installation, bend the 3 protruding pins into a 90° angle.
+- **Before** installation, bend the 3 protruding pins into a 90° angle.
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/bit_m0116/sol_mosfet.png ' width='350'>
 
 <br>
