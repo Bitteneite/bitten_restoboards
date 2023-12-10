@@ -205,7 +205,7 @@ There are 6 independent components to install, but you can install them in any o
 
 ## Solenoid Placement
 
-Here is where you can get creative! You can now place your 5V solenoid's anywhere inside the M0116 case. Here an example of how I did mine:
+Here is where you can get creative! You can now place your 5V solenoid's anywhere inside the M0116 case. Here's an example of how I did mine:
 
 1. Place a piece of masking tape on the surface of where you'll mount your solenoid:
 	- This will protect the surface on your M0116 case.
