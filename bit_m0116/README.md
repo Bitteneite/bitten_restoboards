@@ -32,18 +32,10 @@ The PCB is a through-hole kit that requires a Raspberry Pi Pico and some diodes 
       </ul>
     </li>
     <li>
-      <a href="#solenoid-optional">Solenoid</a> (Optional)
+      <a href="#extras">Extras</a> (Optional)
       <ul>
-        <li><a href="#prerequisites-1">Prerequisites</a></li>
-        <li><a href="#pcb-installation">PCB Installation</a></li>
-        <li><a href="#solenoid-placement">Solenoid Placement</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#detachable-cable-optional">Detachable Cable</a> (Optional)
-      <ul>
-        <li><a href="#prerequisites-2">Prerequisites</a></li>
-        <li><a href="#installation-2">Installation</a></li>
+        <li><a href="#solenoid">Solenoid</a></li>
+        <li><a href="#detachable-cable">Detachable Cable</a></li>
       </ul>
     </li>
   </ol>
@@ -137,11 +129,11 @@ _Be prepared for extensive use of your soldering iron and wire-cutter!_
 
 ### Solenoid
 - Installing a **Solenoid** will require a few extra off-the-shelf parts.
-- For instructions, [please visit this README file.](https://github.com/Bitteneite/bitten_restoboards/blob/main/bit_m0116/README-SOLENOID.md)
+- For instructions, [please visit the README-SOLENOID.md file.](https://github.com/Bitteneite/bitten_restoboards/blob/main/bit_m0116/README-SOLENOID.md)
 
 ### Detachable Cable
 - Installing a **Detachable Cable** is fairly simple, but requires basic cable-making knowledge.
-- For instructions, [please visit this README file.](https://github.com/Bitteneite/bitten_restoboards/blob/main/bit_m0116/README-CABLE.md)
+- For instructions, [please visit the README-CABLE.md file.](https://github.com/Bitteneite/bitten_restoboards/blob/main/bit_m0116/README-CABLE.md)
 
 
 # My Build
