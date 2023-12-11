@@ -6,8 +6,9 @@
   
 </p>
 
+<br>
 
-# Solenoid (Optional)
+# Solenoid
 
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/bit_m0116/sol_preview.jpg ' width='1000'>
 
