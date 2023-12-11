@@ -8,7 +8,7 @@
 
 <br>
 
-# Extras: Detachable Cable
+# Detachable Cable (Optional)
 
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/bit_m0116/socket-preview.jpg ' width='1000'>
 At this point, your M0116 PCB is ready to go! However, if you're like to give it that finishing touch, you should wire up a custom connector!
