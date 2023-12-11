@@ -33,15 +33,9 @@ The PCB is a through-hole kit that requires a Raspberry Pi Pico and some diodes 
     </li>
     <li>
       <a href="#solenoid">Solenoid</a>
-      <ul>
-        <li>[README-SOLENOID.md](https://github.com/Bitteneite/bitten_restoboards/tree/testing/bit_m0116/README-SOLENOID.md)</li>
-      </ul>
     </li>
     <li>
       <a href="#detachable-cable">Detachable Cable</a>
-      <ul>
-        <li>[README-CABLE.md](https://github.com/Bitteneite/bitten_restoboards/tree/testing/bit_m0116/README-CABLE.md)</li>
-      </ul>
     </li>
   </ol>
 
