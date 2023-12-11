@@ -32,10 +32,15 @@ The PCB is a through-hole kit that requires a Raspberry Pi Pico and some diodes 
       </ul>
     </li>
     <li>
-      <a href="#extras">Extras</a>
+      <a href="#solenoid">Solenoid</a>
       <ul>
-        <li><a href="#solenoid">Solenoid</a></li>
-        <li><a href="#detachable-cable">Detachable Cable</a></li>
+        <li>[README-SOLENOID.md](https://github.com/Bitteneite/bitten_restoboards/tree/testing/bit_m0116/README-SOLENOID.md)</li>
+      </ul>
+    </li>
+    <li>
+      <a href="#detachable-cable">Detachable Cable</a>
+      <ul>
+        <li>[README-CABLE.md](https://github.com/Bitteneite/bitten_restoboards/tree/testing/bit_m0116/README-CABLE.md)</li>
       </ul>
     </li>
   </ol>
@@ -125,16 +130,12 @@ _Be prepared for extensive use of your soldering iron and wire-cutter!_
 
 <br>
 
-# Extras
-
-Here are some optional features you can implement into your M0116 PCB:
-
-## Solenoid
+# Solenoid
 - Installing a **Solenoid** will require a few extra off-the-shelf parts.
 - For instructions, please [visit the README-SOLENOID.md file.](https://github.com/Bitteneite/bitten_restoboards/tree/testing/bit_m0116/README-SOLENOID.md)
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/bit_m0116/sol_preview.jpg ' width='500'>
 
-## Detachable Cable
+# Detachable Cable
 - Installing a **Detachable Cable** is fairly simple, but requires basic cable-making knowledge.
 - For instructions, please [visit the README-CABLE.md file.](https://github.com/Bitteneite/bitten_restoboards/tree/testing/bit_m0116/README-CABLE.md)
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/bit_m0116/socket-preview.jpg ' width='500'>
