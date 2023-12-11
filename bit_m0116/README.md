@@ -136,10 +136,12 @@ _Be prepared for extensive use of your soldering iron and wire-cutter!_
 # Extras
 
 ### Solenoid
-To install a **Solenoid**, [please visit this README file.](https://github.com/Bitteneite/bitten_restoboards/blob/main/bit_m0116/README-SOLENOID.md)
+- Installing a **Solenoid** will require a few extra off-the-shelf parts.
+- For instructions, [please visit this README file.](https://github.com/Bitteneite/bitten_restoboards/blob/main/bit_m0116/README-SOLENOID.md)
 
 ### Detachable Cable
-To install a **Detachable Cable**, [please visit this README file.](https://github.com/Bitteneite/bitten_restoboards/blob/main/bit_m0116/README-CABLE.md)
+- Installing a **Detachable Cable** is fairly simple, but requires basic cable-making knowledge.
+- For instructions, [please visit this README file.](https://github.com/Bitteneite/bitten_restoboards/blob/main/bit_m0116/README-CABLE.md)
 
 
 # My Build
