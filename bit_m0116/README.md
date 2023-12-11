@@ -229,6 +229,7 @@ Here is where you can get creative! You can now place your 5V solenoid's anywher
 <br>
 
 ✅ Wreak havoc! Get out there and blast some ears off!
+https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/bit_m0116/sol_assemb_5.mp4
 
 <br>
 
