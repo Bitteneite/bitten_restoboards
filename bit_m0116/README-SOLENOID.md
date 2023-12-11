@@ -107,3 +107,15 @@ Here is where you can get creative! You can now place your 5V solenoid's anywher
 
 https://github.com/Bitteneite/bitten_restoboards/assets/5614646/40085a2b-6066-43de-acd3-affa5b23a1a8
 
+<br>
+
+# Contact
+
+👤 **Abdullah Al-Marzouqi**
+
+- Discord: @BittenEite
+- Instagram: [@bitteneite](https://www.instagram.com/bitteneite/)
+
+<br>
+
+_For damage, sales or directions for use, call Bittens Inc. at 186-555-4196 who assumes no liability in the manufacture of this product. The Bittens Inc. company is an unregistered parody organization which is completely made up by someone’s monkey brains. All external references are used under no damn license by Bittens Inc. Ω1992. No rights reserved._

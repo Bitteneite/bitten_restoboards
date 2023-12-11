@@ -37,3 +37,16 @@ At this point, your M0116 PCB is ready to go! However, if you're like to give it
 ✅ Congratulations! You can now plug in any Type-C cable of your choice.
 
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/bit_m0116/socket-example-3.jpg ' width='500'>
+
+<br>
+
+# Contact
+
+👤 **Abdullah Al-Marzouqi**
+
+- Discord: @BittenEite
+- Instagram: [@bitteneite](https://www.instagram.com/bitteneite/)
+
+<br>
+
+_For damage, sales or directions for use, call Bittens Inc. at 186-555-4196 who assumes no liability in the manufacture of this product. The Bittens Inc. company is an unregistered parody organization which is completely made up by someone’s monkey brains. All external references are used under no damn license by Bittens Inc. Ω1992. No rights reserved._
