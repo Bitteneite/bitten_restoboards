@@ -8,6 +8,8 @@
 
 <br>
 
+# Extras: Solenoid
+
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/bit_m0116/sol_preview.jpg ' width='1000'>
 
 This chapter will guide you through the process of installing all the components needed for a solenoid! *Let's annoy the entire house!*
