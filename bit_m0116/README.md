@@ -130,14 +130,14 @@ _Be prepared for extensive use of your soldering iron and wire-cutter!_
 Here are some optional features you can implement into your M0116 PCB:
 
 ### Solenoid
-<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/bit_m0116/sol_preview.jpg ' width='500'>
 - Installing a **Solenoid** will require a few extra off-the-shelf parts.
 - For instructions, please [visit the README-SOLENOID.md file.](https://github.com/Bitteneite/bitten_restoboards/tree/testing/bit_m0116/README-SOLENOID.md)
+<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/bit_m0116/sol_preview.jpg ' width='500'>
 
 ### Detachable Cable
-<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/bit_m0116/socket-preview.jpg ' width='500'>
 - Installing a **Detachable Cable** is fairly simple, but requires basic cable-making knowledge.
 - For instructions, please [visit the README-CABLE.md file.](https://github.com/Bitteneite/bitten_restoboards/tree/testing/bit_m0116/README-CABLE.md)
+<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/bit_m0116/socket-preview.jpg ' width='500'>
 
 <br>
 
