@@ -1,3 +1,13 @@
+<p align="center">
+  <img align="center" width="500" src="https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/logo3.png" />
+
+  <h1 align="center">General Bittens Electrics Incorporated</h1>
+  <h6 align="center">Special Keyboard Manufacturing & Restoration Division Ω 1992. No Rights Reserved</h6>
+  
+</p>
+
+<br>
+
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/bit_m0116/sol_preview.jpg ' width='1000'>
 
 This chapter will guide you through the process of installing all the components needed for a solenoid! *Let's annoy the entire house!*
