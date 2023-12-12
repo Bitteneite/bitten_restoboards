@@ -55,7 +55,8 @@ This section will cover how you can easily flash your RP2040-based controller. M
 	- After going into Bootloader Mode, a new device should be connected to your computer.
 	- Open the new directory, and drag the .uf2 file into it.
 	- Your RP2040 Controller should **reboot** in a second.
-<img src='https://github.com/Bitteneite/bitten_restoboards/blob/main/photos/prep-2.gif ' width='750'>
+<img src='https://github.com/Bitteneite/bitten_restoboards/blob/main/photos/prep-2.jpg ' width='750'>
+<img src='https://github.com/Bitteneite/bitten_restoboards/blob/main/photos/prep-3.jpg ' width='750'>
 
 4. Open **Vial** & Verify:
 	- If you've done everything correctly, your RP2040 Controller should now be recognized as "Apple Standard Keyboard".
