@@ -71,6 +71,7 @@ There are 6 independent components to install, but you can install them in any o
 - Same points apply as <a href="#male-pin-headers">previously mentioned.</a>
 - Solder a Female DuPont Jumper cable to each wire on the solenoid.
 - Direction doesn't matter. You can reverse the pins and the solenoid should still work.
+- **Note:** If you'll install the solenoid on the **right** side of the M0116, you might need to extend the wires.
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/bit_m0116/sol_header.jpg ' width='350'>
 
 <h6 align="center">✅ Congratulations! You can now configure your solenoid in Vial.</h6>
@@ -101,9 +102,10 @@ Here is where you can get creative! You can now place your 5V solenoid's anywher
 
 <br>
 
+https://github.com/Bitteneite/bitten_restoboards/assets/5614646/40085a2b-6066-43de-acd3-affa5b23a1a8
+
 <h6 align="center">✅ Wreak havoc! Get out there and blast some ears off!</h6>
 
-https://github.com/Bitteneite/bitten_restoboards/assets/5614646/40085a2b-6066-43de-acd3-affa5b23a1a8
 
 <br>
 
