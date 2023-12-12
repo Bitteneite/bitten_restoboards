@@ -19,9 +19,8 @@ So after mere *minutes* in research & design, **Bittens Incorporated** proudly p
 - **QMK/Vial:** Just plug in your keyboard, and remap your keys in Vial! ~We know you're too lazy for anything else.~
 - **Multi-layout Compatibility:** We almost forgot about you, M0118 owners. *Almost!*
 
-The PCB is a through-hole kit which requires a **Raspberry Pi Pico** and some diodes for basic functionality. *Easy as pie; monkey business not required.*
+<h6 align="center">✅ Easy as pie; monkey business not required.</h6>
 
-<br>
 
 # Assembling your PCB
 
@@ -58,11 +57,11 @@ This section will cover how you can easily flash your RP2040-based controller. M
 	- Your Raspberry Pi Pico should **reboot** in a second.
 <img src='https://github.com/Bitteneite/bitten_restoboards/blob/main/photos/prep-2.gif ' width='750'>
 
-<br>
-
-✅ If you've done everything correctly, **Vial** should now recognize your RP2040 controller as an M0116 keyboard!
-
+4. Open **Vial** & Verify:
+	- If you've done everything correctly, your RP2040 controller should now be recognized as "Apple Standard Keyboard".
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/bit_m0116/vial_preview.png ' width='750'>
+
+<h6 align="center">✅ Congratulations! The monkey-brain of your M0116 PCB is now firing on all 2 braincells!</h6>
 
 ## Installation
 This section will guide you through the process of assembling your PCB. 
@@ -101,7 +100,7 @@ _Be prepared for extensive use of your soldering iron and wire-cutter!_
 
 <br>
 
-✅ Congratulations! Your PCB is now ready for installation!
+<h6 align="center">✅ Congratulations! Your PCB is now ready for installation!</h6>
 
 <br>
 
@@ -138,4 +137,4 @@ Modifications:
 
 <br>
 
-_For damage, sales or directions for use, call Bittens Inc. at 186-555-4196 who assumes no liability in the manufacture of this product. The Bittens Inc. company is an unregistered parody organization which is completely made up by someone’s monkey brains. All external references are used under no damn license by Bittens Inc. Ω1992. No rights reserved._
+_For damage, sales or directions for use, call Bittens Inc. at 186-555-4196 who assumes full liability in the manufacture of this product. Actually, don't call us; send us a message on Discord instead. The Bittens Inc. company is an unregistered parody organization which is completely made up by someone’s monkey brains. All external references are used under no damn license by Bittens Inc. Ω 1992. No rights reserved._
