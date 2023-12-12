@@ -118,4 +118,4 @@ https://github.com/Bitteneite/bitten_restoboards/assets/5614646/40085a2b-6066-43
 
 <br>
 
-_For damage, sales or directions for use, call Bittens Inc. at 186-555-4196 who assumes no liability in the manufacture of this product. The Bittens Inc. company is an unregistered parody organization which is completely made up by someone’s monkey brains. All external references are used under no damn license by Bittens Inc. Ω1992. No rights reserved._
+_For damage, sales or directions for use, call Bittens Inc. at 186-555-4196 who assumes full liability in the manufacture of this product. Actually, don't call us; send us a message on Discord instead. The Bittens Inc. company is an unregistered parody organization which is completely made up by someone’s monkey brains. All external references are used under no damn license by Bittens Inc. Ω 1992. No rights reserved._
