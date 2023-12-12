@@ -42,23 +42,23 @@ In this chapter, we'll cover the bare minimum to get this PCB up and running. _N
 - The Bent Pin Headers listed above will make assembly easier, but the [Straight Pin Headers](https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/assemb-straight-header.jpg) included with your Raspberry Pi Pico can still work.
 - A decent soldering iron and a pair of sharp wire-cutters are recommended!
 
-## Flashing
+## Preparing your RP2040 Controller
 This section will cover how you can easily flash your RP2040-based controller. My unit was a cheap clone I bought off of AliExpress.
 
 1. Get the .uf2 firmware file: [Visit the Releases page to download the latest version.](https://github.com/Bitteneite/bitten_restoboards/releases/tag/m0116-v2.0.0)
 
-2. Set your Raspberry Pi Pico into **Bootloader Mode**:
+2. Set your RP2040 Controller into **Bootloader Mode**:
 	- Press the **BOOT** and **RST** buttons simultaneously.
 <img src='https://github.com/Bitteneite/bitten_restoboards/blob/main/photos/prep-1.jpg ' width='500'>
 
-3. **Flash** your Raspberry Pi Pico:
+3. **Flash** your RP2040 Controller:
 	- After going into Bootloader Mode, a new device should be connected to your computer.
 	- Open the new directory, and drag the .uf2 file into it.
-	- Your Raspberry Pi Pico should **reboot** in a second.
+	- Your RP2040 Controller should **reboot** in a second.
 <img src='https://github.com/Bitteneite/bitten_restoboards/blob/main/photos/prep-2.gif ' width='750'>
 
 4. Open **Vial** & Verify:
-	- If you've done everything correctly, your RP2040 controller should now be recognized as "Apple Standard Keyboard".
+	- If you've done everything correctly, your RP2040 Controller should now be recognized as "Apple Standard Keyboard".
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/bit_m0116/vial_preview.png ' width='750'>
 
 <h6 align="center">✅ Congratulations! The monkey-brain of your M0116 PCB is now firing on all 2 braincells!</h6>
@@ -76,14 +76,14 @@ _Be prepared for extensive use of your soldering iron and wire-cutter!_
 2. Install the Pin Headers onto your RP2040 controller the "incorrect" way:
 	- Insert the Pin Headers from the top, rather then from the bottom.
 	- This will minimize the final height of your RP2040 controller and avoid clearance issues.
-	- **Note 1:** If you're using the [Straight Pin Headers](https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/assemb-straight-header.jpg) included with your Raspberry Pi Pico, solder it in, but **keep the solder to a minimum!** (The protruding legs need to be as thin as possible!)
-	- **Note 2:** If you're using the [Bent Pin Headers](https://www.aliexpress.com/item/4000660389713.html) mentioned previously, you will **not** need to solder it in.
+	- **Note 1:** If you're using [Straight Pin Headers](https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/assemb-straight-header.jpg), go ahead and solder it in, but **keep the solder to a minimum!** (The protruding legs need to be as thin as possible!)
+	- **Note 2:** If you're using [Bent Pin Headers](https://www.aliexpress.com/item/4000660389713.html), you will **not** need to solder it in yet. (You can solder them after Step 3)
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/assemb-2.jpg ' width='500'>
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/assemb-2a.gif ' width='500'>
 
 3. Solder your RP2040 controller onto the PCB:
 	- Before soldering, the RP2040 controller must "seat" in all the way.
-	- **Note:** If you're using the [Straight Pin Headers](https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/assemb-straight-header.jpg) included with your Raspberry Pi Pico, and the controller doesn't "seat" in all the way, go back to Step 2 and suck out any solder left on the protruding legs.
+	- **Note:** If you're using [Straight Pin Headers](https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/assemb-straight-header.jpg), and the controller doesn't "seat" in all the way, go back to Step 2 and suck out any solder left on the protruding legs.
 	- Proceed to solder all the pins.
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
 
@@ -95,7 +95,7 @@ _Be prepared for extensive use of your soldering iron and wire-cutter!_
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
 
 5. **(Optional)** Snip off the protruding pins for a cleaner look:
-	- If you're using the [Bent Pin Headers](https://www.aliexpress.com/item/4000660389713.html) mentioned previously, snip off at the "bend".
+	- If you're using [Bent Pin Headers](https://www.aliexpress.com/item/4000660389713.html), snip off at the "bend".
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
 
 <br>
