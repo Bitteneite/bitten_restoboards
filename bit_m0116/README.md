@@ -19,7 +19,7 @@ So after mere *minutes* in research & design, **Bittens Incorporated** proudly p
 - **QMK/Vial:** Just plug in your keyboard, and remap your keys in Vial! ~We know you're too lazy for anything else.~
 - **Multi-layout Compatibility:** We almost forgot about you, M0118 owners. *Almost!*
 
-The PCB is a through-hole kit that requires a Raspberry Pi Pico and some diodes for basic functionality, making it a cheap & easy project to complete!
+The PCB is a through-hole kit which requires a **Raspberry Pi Pico** and some diodes for basic functionality. *Easy as pie; monkey business not required.*
 
 <br>
 
