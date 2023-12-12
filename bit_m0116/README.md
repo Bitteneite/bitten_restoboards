@@ -48,13 +48,13 @@ This section will cover how you can easily flash your RP2040-based controller. M
 
 1. Get the .uf2 firmware file: [Visit the Releases page to download the latest version.](https://github.com/Bitteneite/bitten_restoboards/releases/tag/m0116-v2.0.0)
 
-2. Set your Raspberry Pi Pico into Bootloader:
+2. Set your Raspberry Pi Pico into **Bootloader Mode**:
 	- Press the **BOOT** and **RST** buttons simultaneously.
 <img src='https://github.com/Bitteneite/bitten_restoboards/blob/main/photos/prep-1.jpg ' width='500'>
 
-3. Flash your Raspberry Pi Pico:
+3. **Flash** your Raspberry Pi Pico:
 	- After going into Bootloader mode, a new device should be connected to your computer.
-	- Open the directory, and drag the .uf2 file into it.
+	- Open the new directory, and drag the .uf2 file into it.
 	- Your Raspberry Pi Pico should **reboot** in a second.
 <img src='https://github.com/Bitteneite/bitten_restoboards/blob/main/photos/prep-2.gif ' width='750'>
 
