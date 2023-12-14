@@ -104,7 +104,7 @@ _Be prepared for extensive use of your soldering iron and wire-cutter!_
 	- If an entire row/column doesn't trigger, check the associated solder joint on the **RP2040 Controller**.
 <p float="left">
 	<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/bit_m0116/assemb-4a.jpg ' width='500'>
-	<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
+	<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/bit_m0116/assemb-4b.gif ' width='500'>
 </p>
 
 5. **(Optional)** Snip off the protruding pins for a cleaner look:
