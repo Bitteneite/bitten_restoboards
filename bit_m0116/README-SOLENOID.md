@@ -36,34 +36,34 @@ There are 6 independent components to install, but you can install them in any o
 
 ### TIP120
 - **Before** installation, bend the 3 protruding pins into a 90° angle.
-<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/bit_m0116/sol_mosfet.png ' width='350'>
+<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/bit_m0116/sol_mosfet.jpg ' width='350'>
 
 <br>
 
 ### 2.2uF — 4.7 uF Capacitor
 - Ensure you install it correctly. Follow the symbol on the PCB.
 - **WARNING:** Incorrect installation could make things go explodey! ⚠️
-<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/bit_m0116/sol_capacitor.png ' width='350'>
+<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/bit_m0116/sol_capacitor.jpg ' width='350'>
 
 <br>
 
 ### 1k — 10k Ω Resistor
 - _Tip: To secure the resistor in place before soldering, try bending down the legs on the other side!_
-<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/bit_m0116/sol_resistor.png ' width='350'>
+<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/bit_m0116/sol_resistor.jpg ' width='350'>
 
 <br>
 
 ### DO-35 Diode
 - **Direction is important!** Follow the symbol on the PCB.
 - _Tip: To secure the diode in place before soldering, try bending down the legs on the other side!_
-<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/bit_m0116/sol_diode.png ' width='350'>
+<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/bit_m0116/sol_diode.jpg ' width='350'>
 
 <br>
 
 ### Male Pin Headers
 - We need to connect our solenoid in a **detachable** manner. 
 - Any connector would work (ex. JST Plug Connectors), but we can re-use our [Bent Pin Headers](https://www.aliexpress.com/item/4000660389713.html).
-<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/bit_m0116/sol_pin_header.png ' width='350'>
+<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/bit_m0116/sol_pin_header.jpg ' width='350'>
 
 <br>
 
