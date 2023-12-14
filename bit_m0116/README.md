@@ -55,8 +55,10 @@ This section will cover how you can easily flash your RP2040-based controller. M
 	- After going into Bootloader Mode, a new device should be connected to your computer.
 	- Open the new directory, and drag the .uf2 file into it.
 	- Your RP2040 Controller should **reboot** in a second.
-<img src='https://github.com/Bitteneite/bitten_restoboards/blob/main/photos/prep-2.jpg ' width='750'>
-<img src='https://github.com/Bitteneite/bitten_restoboards/blob/main/photos/prep-3.jpg ' width='750'>
+<p float="left">
+	<img src='https://github.com/Bitteneite/bitten_restoboards/blob/main/photos/prep-2.jpg ' width='500'>
+	<img src='https://github.com/Bitteneite/bitten_restoboards/blob/main/photos/prep-3.jpg ' width='500'>
+</p>
 
 4. Open **Vial** & Verify:
 	- If you've done everything correctly, your RP2040 Controller should now be recognized as "Apple Standard Keyboard".
@@ -72,32 +74,45 @@ _Be prepared for extensive use of your soldering iron and wire-cutter!_
 	- **Direction is important!** Follow the symbol on the PCB.
 	- Some diode locations are dedicated only to the M0118 layout!
 	- _Tip: To secure the diode in place before soldering, try bending down the legs on the other side!_
-<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/bit_m0116/assemb-1.jpg ' width='500'>
+<p float="left">
+	<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/bit_m0116/assemb-1.jpg ' width='500'>
+	<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/bit_m0116/assemb-1b.jpg ' width='500'>
+</p>
 
 2. Install the Pin Headers onto your RP2040 controller the "incorrect" way:
 	- Insert the Pin Headers from the top, rather then from the bottom.
 	- This will minimize the final height of your RP2040 controller and avoid clearance issues.
 	- **Note 1:** If you're using [Straight Pin Headers](https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/assemb-straight-header.jpg), go ahead and solder it in, but **keep the solder to a minimum!** (The protruding legs need to be as thin as possible!)
 	- **Note 2:** If you're using [Bent Pin Headers](https://www.aliexpress.com/item/4000660389713.html), you will **not** need to solder it in yet. (You can solder them after Step 3)
-<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/assemb-2.jpg ' width='500'>
-<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/assemb-2a.gif ' width='500'>
+<p float="left">
+  <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/assemb-2.jpg ' width='500'>
+  <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/assemb-2a.gif ' width='500'>
+</p>
+
+
 
 3. Solder your RP2040 controller onto the PCB:
 	- Before soldering, the RP2040 controller must "seat" in all the way.
 	- **Note:** If you're using [Straight Pin Headers](https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/assemb-straight-header.jpg), and the controller doesn't "seat" in all the way, go back to Step 2 and suck out any solder left on the protruding legs.
 	- Proceed to solder all the pins.
-<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
+<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/bit_m0116/assemb-3.jpg ' width='500'>
 
 4. Verify that each switch is triggering reliably:
-	- Open **Vial** and check the "Matrix Tester" tab.
+	- Plug in the RP2040 Controller, open **Vial**, and check the "Matrix Tester" tab.
 	- Short each switch manually using a pair of tweezers. The key should light up in Vial.
 	- If a switch doesn't trigger, check the solder joint on the nearby **diode**.
 	- If an entire row/column doesn't trigger, check the associated solder joint on the **RP2040 Controller**.
-<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
+<p float="left">
+	<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/bit_m0116/assemb-4a.jpg ' width='500'>
+	<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
+</p>
 
 5. **(Optional)** Snip off the protruding pins for a cleaner look:
 	- If you're using [Bent Pin Headers](https://www.aliexpress.com/item/4000660389713.html), snip off at the "bend".
-<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/placeholder.png ' width='500'>
+<p float="left">
+	<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/bit_m0116/assemb-5a.jpg ' width='500'>
+	<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/bit_m0116/assemb-5b.jpg ' width='500'>
+</p>
 
 <br>
 
