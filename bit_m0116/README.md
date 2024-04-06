@@ -36,21 +36,21 @@ In this chapter, we'll cover the bare minimum to get this PCB up and running. _N
 |	x81		|	Diodes			|	DO-35			|	*Mandatory*		|	[1N4148](https://www.aliexpress.com/item/4001126137167.html)				|
 
 
+- A [flush-cutter](https://www.aliexpress.com/item/1005005546916111.html) is recommended!
 - [Vial](https://get.vial.today/) will be required for verification. Please ensure that it's installed and running correctly.
 - M0118 keyboards use an ISO layout, which will need 84 diodes instead. Their locations are denoted by a symbol on the PCB.
-- A decent soldering iron and a pair of sharp wire-cutters are recommended!
 
 ## Preparing your RP2040 Controller
 This section will cover how you can easily flash your RP2040-based controller. My unit was a cheap clone I bought off of AliExpress.
 
-1. Get the .uf2 firmware file: [Visit the Releases page to download the latest version.](https://github.com/Bitteneite/bitten_restoboards/releases/tag/m0116-v2.0.0)
+1. Get the .uf2 firmware file: [Visit the Releases page to download the latest version.](https://github.com/Bitteneite/bitten_restoboards/releases/tag/m0116-v2.0.1)
 
 2. Set your RP2040 Controller into **Bootloader Mode**:
 	- Press the **BOOT** and **RST** buttons simultaneously.
 <img src='https://github.com/Bitteneite/bitten_restoboards/blob/main/photos/prep-1.jpg ' width='500'>
 
 3. **Flash** your RP2040 Controller:
-	- After going into Bootloader Mode, a new device should be connected to your computer.
+	- If the previous step was done correctly, you should see a new device connected to your computer.
 	- Open the new directory, and drag the .uf2 file into it.
 	- Your RP2040 Controller should **reboot** in a second.
 <p float="left">
@@ -112,8 +112,8 @@ _Be prepared for extensive use of your soldering iron and wire-cutter!_
 7. Verify that each switch is triggering reliably:
 	- Plug in the RP2040 Controller, open **Vial**, and check the "Matrix Tester" tab.
 	- Short each switch manually using a pair of tweezers. The key should light up in Vial.
-	- If a switch doesn't trigger, check the solder joint on the nearby **diode**.
-	- If an entire row/column doesn't trigger, check the associated solder joint on the **RP2040 Controller**.
+	- **Troubleshooting 1:** If a single switch doesn't trigger, check the solder joint on the nearby **diode**.
+	- **Troubleshooting 2:** If an entire row/column doesn't trigger, check the associated solder joint on the **RP2040 Controller**.
 <p float="left">
 	<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/bit_m0116/assemb-4b.gif ' width='500'>
 </p>
