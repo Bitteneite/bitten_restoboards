@@ -17,7 +17,8 @@ Custom PCBs offer a world of possibilities, and somehow, you ended up with us â€
 |	Product Name	|	Supported Keyboard		|	Description				|
 |	------- 		|	-------					|	-------					|
 |	bit_omnikey		|	Northgate Omnikey 102	|	Controller Replacement	|
-|	bit_m0116		|	Apple M0116				|	Custom PCB				|
+|	bit_m0116		|	Apple M0116				|	Custom PCB V2     |
+|	bit_m0116_blackpill		|	Apple M0116				|	Custom PCB V1			|
 |	bit_3700		|	Cherry G80-3700			|	Custom PCB				|
 
 
