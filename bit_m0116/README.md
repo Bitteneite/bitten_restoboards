@@ -132,18 +132,6 @@ _Be prepared for extensive use of your soldering iron and wire-cutter!_
 
 <br>
 
-# My Build
-(Video without solenoid here, soon™)<br>
-(Video with solenoid here, soon™)
-
-Modifications:
-- Click-modded with leafs from SKCM Whites.
-- 2mm EVA Foam on the bottom case.
-
-[Restoration Log](https://photos.app.goo.gl/cXroJ1pDgp9bM6tA6)
-
-<br>
-
 # Contact
 
 👤 **Abdullah Al-Marzouqi**
