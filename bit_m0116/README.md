@@ -82,7 +82,7 @@ _Be prepared for extensive use of your soldering iron and wire-cutter!_
 2. Install the Pin Headers onto your RP2040 controller the "incorrect" way:
 	- Insert the Pin Headers from the top, rather then from the bottom.
 	- This will minimize the final height of your RP2040 controller and avoid clearance issues.
-	- **Note 1:** If you're using [Straight Pin Headers](https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/assemb-straight-header.jpg), go ahead and solder it in, but **keep the solder to a minimum!** (The protruding legs need to be as thin as possible!)
+	- **Note 1:** If you're using [Straight Pin Headers](https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/assemb-straight-header.jpg), go ahead and solder all the pins at the bottom, but **keep the solder to a minimum!** (The protruding legs need to be as thin as possible!)
 	- **Note 2:** If you're using [Bent Pin Headers](https://www.aliexpress.com/item/4000660389713.html), you will **not** need to solder it in yet. (You can solder them after Step 3)
 <p float="left">
   <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/assemb-2.jpg ' width='500'>
@@ -92,9 +92,8 @@ _Be prepared for extensive use of your soldering iron and wire-cutter!_
 
 
 3. Solder your RP2040 controller onto the PCB:
-	- Before soldering, the RP2040 controller must "seat" in all the way.
+	- Before soldering, the RP2040 controller should "seat" in all the way. This is not necessary, but it'll make for a cleaner build.
 	- **Note:** If you're using [Straight Pin Headers](https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/assemb-straight-header.jpg), and the controller doesn't "seat" in all the way, go back to Step 2 and suck out any solder left on the protruding legs.
-	- Proceed to solder all the pins.
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/bit_m0116/assemb-3.jpg ' width='500'>
 
 4. Verify that each switch is triggering reliably:
