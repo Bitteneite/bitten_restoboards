@@ -2,9 +2,8 @@
     "manufacturer": "Apple",
     "keyboard_name": "Standard Keyboard",
     "maintainer": "BittenEite",
-    "bootloader": "stm32-dfu",
-    "processor": "STM32F401"
-	"board": "BLACKPILL_STM32_F401",
+    "bootloader": "rp2040",
+    "processor": "RP2040"
     "diode_direction": "COL2ROW",
     "features": {
         "bootmagic": true,
@@ -21,36 +20,36 @@
         "vid": "0x6638"
     },
 	"bootmagic": {
-        "matrix": [0, 6]
+        "matrix": [0, 5]
     },
     "matrix_pins": {
         "cols": [
-			"B5",
-			"B1",
-			"B0",
-			"A7",
-			"A6",
-			"A5",
-			"A4",
-			"A3",
-			"A2",
-			"A1",
-			"A0",
-			"C15",
-			"C14",
-			"C13",
-			"B8",
-			"B9",
-			"B7",
-			"B6"
-			],
+			"GP6", 
+			"GP5", 
+			"GP4", 
+			"GP3", 
+			"GP28", 
+			"GP27", 
+			"GP26", 
+			"GP22", 
+			"GP21", 
+			"GP20", 
+			"GP19", 
+			"GP18", 
+			"GP17", 
+			"GP16", 
+			"GP12", 
+			"GP13", 
+			"GP14", 
+			"GP15"
+		],
         "rows": [
-			"B12"
-			"A15",
-			"A8",
-			"B15",
-			"B14",
-			"B13"
+			"GP0"
+			"GP11",
+			"GP10",
+			"GP9",
+			"GP8",
+			"GP7"
 			]
     },
     "layouts": {
@@ -143,12 +142,12 @@
 				{"matrix": [5, 1], "label":"Alt", "x":1, "y":5.25}, 
 				{"matrix": [5, 2], "label":"Super", "x":2, "y":5.25, "w":1.75}, 
 				{"matrix": [5, 3], "label":"Tilde", "x":3.75, "y":5.25}, 
-				{"matrix": [5, 6], "label":"Spacebar", "x":3.25, "y":5.25, "w":5.25}, 
-				{"matrix": [5, 8], "label":"Pipe", "x":9.5, "y":5.25}, 
-				{"matrix": [5, 9], "label":"Left", "x":10.5, "y":5.25}, 
-				{"matrix": [5, 10], "label":"Right", "x":11.5, "y":5.25}, 
-				{"matrix": [5, 11], "label":"Down", "x":12.5, "y":5.25},
-				{"matrix": [5, 12], "label":"Up", "x":12.5, "y":5.25}, 
+				{"matrix": [5, 7], "label":"Spacebar", "x":3.25, "y":5.25, "w":5.25}, 
+				{"matrix": [5, 9], "label":"Pipe", "x":9.5, "y":5.25}, 
+				{"matrix": [5, 10], "label":"Left", "x":10.5, "y":5.25}, 
+				{"matrix": [5, 11], "label":"Right", "x":11.5, "y":5.25}, 
+				{"matrix": [5, 12], "label":"Down", "x":12.5, "y":5.25},
+				{"matrix": [5, 13], "label":"Up", "x":12.5, "y":5.25}, 
 				{"matrix": [5, 14], "label":"0", "x":15.5, "y":5.25, "w":2}, 
 				{"matrix": [5, 16], "label":".", "x":17.5, "y":5.25}
             ]
