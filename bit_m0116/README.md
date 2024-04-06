@@ -34,12 +34,10 @@ In this chapter, we'll cover the bare minimum to get this PCB up and running. _N
 |	------------	|----				|	------------		|	------------		|	------------										|
 |	x1		|	Controller		|	RP2040			|	*Mandatory*		|	[Raspberry Pi Pico](https://www.aliexpress.com/item/1005003928558306.html)		|
 |	x81		|	Diodes			|	DO-35			|	*Mandatory*		|	[1N4148](https://www.aliexpress.com/item/4001126137167.html)				|
-|	x40 		|	Bent Pin Headers	|	—			|	Recommended		|	[40x Top bending DW](https://www.aliexpress.com/item/4000660389713.html)		|
 
 
 - [Vial](https://get.vial.today/) will be required for verification. Please ensure that it's installed and running correctly.
 - M0118 keyboards use an ISO layout, which will need 84 diodes instead. Their locations are denoted by a symbol on the PCB.
-- The Bent Pin Headers listed above will make assembly easier, but the [Straight Pin Headers](https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/assemb-straight-header.jpg) included with your Raspberry Pi Pico can still work.
 - A decent soldering iron and a pair of sharp wire-cutters are recommended!
 
 ## Preparing your RP2040 Controller
@@ -79,38 +77,44 @@ _Be prepared for extensive use of your soldering iron and wire-cutter!_
 	<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/bit_m0116/assemb-1b.jpg ' width='500'>
 </p>
 
-2. Install the Pin Headers onto your RP2040 controller the "incorrect" way:
+2. Mount the Pin Headers the incorrect way:
 	- Insert the Pin Headers from the top, rather then from the bottom.
-	- This will minimize the final height of your RP2040 controller and avoid clearance issues.
-	- **Note 1:** If you're using [Straight Pin Headers](https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/assemb-straight-header.jpg), go ahead and solder all the pins at the bottom, but **keep the solder to a minimum!** (The protruding legs need to be as thin as possible!)
-	- **Note 2:** If you're using [Bent Pin Headers](https://www.aliexpress.com/item/4000660389713.html), you will **not** need to solder it in yet. (You can solder them after Step 3)
+	- Don't seat the header all the way in. Keep a good height! (We will trim it later)
 <p float="left">
-  <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/assemb-2.jpg ' width='500'>
-  <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/assemb-2a.gif ' width='500'>
+  <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/assemb-2-alt1.jpg ' width='500'>
 </p>
 
+3. Solder the Pin Headers onto the controller:
+	- Solder **only** the 4 corners.
+	- **Warning:** Keep the solder to a minimum! The protruding legs need to be as thin as possible.
+<p float="left">
+  <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/assemb-2-alt2.jpg ' width='500'>
+</p>
 
+4. Solder your controller onto the PCB:
+	- **Note:** If the controller doesn't "seat" in all the way, go back to Step 3 and suck out any solder left on the protruding legs.
+<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/assemb-2-alt3.jpg ' width='500'>
+</p>
 
-3. Solder your RP2040 controller onto the PCB:
-	- Before soldering, the RP2040 controller should "seat" in all the way. This is not necessary, but it'll make for a cleaner build.
-	- **Note:** If you're using [Straight Pin Headers](https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/assemb-straight-header.jpg), and the controller doesn't "seat" in all the way, go back to Step 2 and suck out any solder left on the protruding legs.
-<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/bit_m0116/assemb-3.jpg ' width='500'>
+5. Snip off the protruding pins for a cleaner look:
+	- Use a flush-cutter to snip off the rest of the pin headers.
+<p float="left">
+	<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/assemb-2-alt4.jpg ' width='500'>
+</p>
 
-4. Verify that each switch is triggering reliably:
+6. Solder the top side of the controller:
+	- Use a flush-cutter to snip off the rest of the pin headers.
+<p float="left">
+	<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/assemb-2-alt5.jpg ' width='500'>
+</p>
+
+7. Verify that each switch is triggering reliably:
 	- Plug in the RP2040 Controller, open **Vial**, and check the "Matrix Tester" tab.
 	- Short each switch manually using a pair of tweezers. The key should light up in Vial.
 	- If a switch doesn't trigger, check the solder joint on the nearby **diode**.
 	- If an entire row/column doesn't trigger, check the associated solder joint on the **RP2040 Controller**.
 <p float="left">
-	<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/bit_m0116/assemb-4a.jpg ' width='500'>
 	<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/bit_m0116/assemb-4b.gif ' width='500'>
-</p>
-
-5. **(Optional)** Snip off the protruding pins for a cleaner look:
-	- If you're using [Bent Pin Headers](https://www.aliexpress.com/item/4000660389713.html), snip off at the "bend".
-<p float="left">
-	<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/bit_m0116/assemb-5a.jpg ' width='500'>
-	<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/bit_m0116/assemb-5b.jpg ' width='500'>
 </p>
 
 <br>
