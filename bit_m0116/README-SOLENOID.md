@@ -43,8 +43,10 @@ There are 6 independent components to install, but you can install them in any o
 <br>
 
 ### 2.2uF — 4.7 uF Capacitor
-- Ensure you install it correctly. Follow the symbol on the PCB.
-- **WARNING:** Incorrect installation could make things go explodey! ⚠️
+- Install the capacitor on it's side. This is to give more clearance for the detachable cable.
+- Ensure you install it in the right orientation. Follow the symbol on the PCB.
+- **WARNING:** Reversing the pins could make things go explodey! ⚠️
+- Optionally, I've applied some hot-glue to prevent the capacitor from bending.
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/bit_m0116/sol_capacitor.jpg ' width='350'>
 
 <br>
