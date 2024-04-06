@@ -66,7 +66,7 @@ There are 6 independent components to install, but you can install them in any o
 
 ### Male Pin Headers
 - We need to connect our solenoid in a **detachable** manner. 
-- Any connector would work (ex. JST Plug Connectors), but we can re-use our [Bent Pin Headers](https://www.aliexpress.com/item/4000660389713.html).
+- Any connector would work (ex. JST Plug Connectors), but I used a [Bent Pin Headers](https://www.aliexpress.com/item/4000660389713.html) since that's what I had.
 - **Note:** Ignore how the capacitor is installed in the image below.
 <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/bit_m0116/sol_pin_header.jpg ' width='350'>
 
