@@ -79,7 +79,8 @@ _Be prepared for extensive use of your soldering iron and wire-cutter!_
 
 2. Mount the Pin Headers the incorrect way:
 	- Insert the Pin Headers from the top, rather then from the bottom.
-	- Don't seat the header all the way in. Keep a good height! (We will trim it later)
+	- Don't seat the Pin Headers all the way in. Keep a good height!
+	- This allows us to snip the Pin Headers more easily and apply solder on the top-side.
 <p float="left">
   <img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/assemb-2-alt1.jpg ' width='500'>
 </p>
@@ -97,13 +98,13 @@ _Be prepared for extensive use of your soldering iron and wire-cutter!_
 </p>
 
 5. Snip off the protruding pins for a cleaner look:
-	- Use a flush-cutter to snip off the rest of the pin headers.
+	- Use a flush-cutter to snip off the rest of the Pin Headers.
 <p float="left">
 	<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/assemb-2-alt4.jpg ' width='500'>
 </p>
 
 6. Solder the top side of the controller:
-	- Use a flush-cutter to snip off the rest of the pin headers.
+	- That's it! The PCB should be fully-functional now.
 <p float="left">
 	<img src='https://raw.githubusercontent.com/Bitteneite/bitten_restoboards/main/photos/assemb-2-alt5.jpg ' width='500'>
 </p>
